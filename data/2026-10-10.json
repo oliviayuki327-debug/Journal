@@ -1,0 +1,44 @@
+{
+ "date": "2026-10-10",
+ "cards": [
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Acronym Collective Studio transforms former brewery in Czech Republic into community centre",
+   "extract": "Architecture firm Acronym Collective Studio has transformed a former brewery near Brno into a community centre, which addresses its corner site with a curved, perforated brick facade. Named Kulturní Centrum Pivovar or Brewery Cultural Centre, the building in the town of Velká Bíteš contains a library, information centre, family centre, multi-purpose community hall and creative The post Acronym Collective Studio…",
+   "link": "https://www.dezeen.com/2026/10/10/brewery-cultural-centre-brno-acronym-collective-studio/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "straw walls shape amphitheater, experimental garden and walking path in rural spain",
+   "extract": "paisajeencontrado creates a sensory land art installation turning a meadow in extremadura into a living field of observation, linked to the conservation of native species. The post straw walls shape amphitheater, experimental garden and walking path in rural spain appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/straw-walls-amphitheater-experimental-garden-walking-path-rural-spain/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "CASA MG / Startup Architettura",
+   "extract": "Located within a 1930s residential building, Casa MG reinterprets and elevates some of the period's most distinctive and iconic architectural features, making them a recurring design language at the heart of the apartment's spatial reorganization.",
+   "link": "https://www.archdaily.com/1186467/casa-mg-startup-architettura",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Sélectionner le sujet en un clic",
+   "intro": "Détourer une façade, un objet ou une personne sans outil manuel.",
+   "steps": [
+    "Menu Sélection > Sujet",
+    "Affine avec Sélectionner et masquer si les bords sont durs",
+    "Ajoute un masque de calque plutôt que de supprimer le fond"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ]
+}
