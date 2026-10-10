@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#c4451c">
+<link rel="manifest" href="manifest.json"><link rel="apple-touch-icon" href="icon-192.png">
+<title>Journal</title>
+<style>
+:root{box-sizing:border-box;--bg:#f5f1ea;--fg:#1c1a17;--mut:#7a746a;--card:#fffdf8;--line:#ddd5c7;--ac:#c4451c;padding-top:env(safe-area-inset-top,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15130f;--fg:#f0eadf;--mut:#9a9385;--card:#1e1b16;--line:#332e26;--ac:#ff7a4d}}
+:root[data-theme="dark"]{--bg:#15130f;--fg:#f0eadf;--mut:#9a9385;--card:#1e1b16;--line:#332e26;--ac:#ff7a4d}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--fg);font-family:Georgia,'Times New Roman',serif;display:flex;flex-direction:column}
+header{padding:12px 20px 8px;display:flex;justify-content:space-between;align-items:baseline}
+header h1{margin:0;font-size:22px;letter-spacing:.02em;font-style:italic}
+header span{font:12px system-ui,sans-serif;color:var(--mut);text-transform:capitalize}
+main{flex:1;overflow-y:auto;scroll-snap-type:y proximity;padding:0 14px 16px}
+nav{display:flex;border-top:1px solid var(--line);background:var(--bg);padding-bottom:env(safe-area-inset-bottom,0px)}
+nav button{flex:1;background:none;border:0;color:var(--mut);font:12px system-ui,sans-serif;padding:12px 4px;cursor:pointer}
+nav button.on{color:var(--ac);font-weight:600}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;margin:0 0 16px;scroll-snap-align:start}
+.art{height:min(46vh,340px);position:relative;display:flex;align-items:flex-end;padding:16px}
+.art i{position:absolute;border-radius:50%;opacity:.35;background:#fff}
+.art b{position:relative;font:11px system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#fff;background:rgba(0,0,0,.35);padding:4px 10px;border-radius:99px}
+.body{padding:16px 18px 18px}
+.body h2{margin:0 0 4px;font-size:22px;line-height:1.2}
+.meta{font:13px system-ui,sans-serif;color:var(--mut);margin-bottom:10px}
+.body p{margin:0;line-height:1.55;font-size:16px}
+.row{display:flex;justify-content:space-between;align-items:center;margin-top:14px}
+.tag{font:12px system-ui,sans-serif;color:var(--mut)}
+.fav{background:none;border:1px solid var(--line);color:var(--fg);border-radius:99px;font:14px system-ui,sans-serif;padding:8px 14px;cursor:pointer}
+.fav.on{background:var(--ac);border-color:var(--ac);color:#fff}
+.msg{text-align:center;color:var(--mut);font:15px system-ui,sans-serif;padding:60px 20px;line-height:1.5}
+.btn{background:var(--ac);color:#fff;border:0;border-radius:99px;font:15px system-ui,sans-serif;padding:11px 20px;cursor:pointer;margin-top:12px}
+.cal-h{display:flex;justify-content:space-between;align-items:center;margin:8px 0 12px;font-size:20px;text-transform:capitalize}
+.cal-h button{background:none;border:1px solid var(--line);color:var(--fg);border-radius:10px;width:40px;height:36px;font-size:18px;cursor:pointer}
+.grid{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;font:14px system-ui,sans-serif;text-align:center}
+.grid .dw{color:var(--mut);font-size:11px;padding:4px 0}
+.grid button{aspect-ratio:1;border:1px solid var(--line);background:var(--card);color:var(--mut);border-radius:12px;font:inherit;cursor:default}
+.grid button.has{color:var(--fg);border-color:var(--ac);cursor:pointer;font-weight:600}
+.grid button.today{outline:2px solid var(--fg)}
+.back{background:none;border:0;color:var(--ac);font:14px system-ui,sans-serif;padding:8px 0;cursor:pointer}
+textarea{width:100%;min-height:90px;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:14px;padding:12px;font:16px Georgia,serif;resize:vertical}
+.note{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-top:10px}
+.note small{display:flex;justify-content:space-between;color:var(--mut);font:12px system-ui,sans-serif;margin-top:8px}
+.note small button{background:none;border:0;color:var(--mut);cursor:pointer;font:inherit}
+
+.art{height:84px!important}
+.kick{font:11px system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--ac);margin-bottom:6px}
+.chapo{font-size:18px;line-height:1.45;font-style:italic;color:var(--mut);margin:0 0 14px!important}
+.body p+p{margin-top:12px}
+.sch{width:100%;border-radius:12px;border:1px solid var(--line);margin:16px 0 4px;display:block;background:#f5f1ea}
+.cap{font:12px system-ui,sans-serif;color:var(--mut);margin-bottom:8px}
+.src{margin-top:16px;padding-top:12px;border-top:1px solid var(--line);font:13px system-ui,sans-serif;color:var(--mut);line-height:1.5}
+.src b{color:var(--fg)}
+.src a,.lnk a{color:var(--ac);text-decoration:none}
+.lnk{margin-top:10px;font:13px system-ui,sans-serif}
+.lnk a{margin-right:14px}
+.warn{font-size:11px;margin-top:6px}
+.adobe .art{background:linear-gradient(135deg,#1b2a4e,#31a8ff)!important}
+.adobe ol{margin:10px 0 0;padding-left:20px;line-height:1.55;font-size:16px}
+.adobe .kb{display:inline-block;margin-top:12px;font:13px ui-monospace,monospace;border:1px solid var(--line);border-radius:8px;padding:4px 10px}
+
+.ph{width:100%;display:block;max-height:62vh;object-fit:cover;background:var(--line)}
+.art{height:auto!important;padding:10px 16px!important}
+.ex{font-size:15px!important;color:var(--mut)}
+.ex+.src{margin-top:12px}
+</style></head><body>
+<header><h1>Journal</h1><span id="dt"></span></header>
+<main id="m"></main>
+<nav id="nav"><button data-t="home" class="on">Aujourd’hui</button><button data-t="arch">Archives</button><button data-t="favs">Favoris</button><button data-t="notes">Notes</button></nav>
+<script>
+const $=s=>document.querySelector(s),M=$('#m');
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pad=n=>String(n).padStart(2,'0');
+const ls={get(k,d){try{const v=JSON.parse(localStorage.getItem(k));return v==null?d:v}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let idx=[],cache={},tab='home',view=null,cal=new Date();
+const safeUrl=u=>/^https?:\/\//i.test(u||'')?u:'#';
+async function load(d){if(cache[d]!==undefined)return cache[d];try{const r=await fetch('data/'+d+'.json');cache[d]=r.ok?await r.json():null}catch(e){cache[d]=null}return cache[d]}
+function cardHTML(c,d,i){
+  const favs=ls.get('favs',{}),id=d+'#'+i,on=!!favs[id];
+  const src=`<div class="src"><b>Source</b> : <a href="${safeUrl(c.link)}" target="_blank" rel="noopener">${esc(c.credit||'Voir la source')}</a>${c.extractLink?` · <a href="${safeUrl(c.extractLink)}" target="_blank" rel="noopener">${esc(c.extractSrc||'Wikipédia')}</a>`:''}</div>`;
+  const fav=`<div class="row"><span class="tag">${esc(d)}</span><button class="fav ${on?'on':''}" data-id="${esc(id)}">${on?'★ Favori':'☆ Favori'}</button></div>`;
+  const hue=(i*70+30)%360,band=`<div class="art" style="background:linear-gradient(135deg,hsl(${hue} 60% 38%),hsl(${(hue+90)%360} 55% 28%))"><b>${esc(c.kicker)}</b></div>`;
+  if(c.type==='astuce')return `<article class="card adobe"><div class="art"><b>${esc(c.kicker)}</b></div><div class="body"><h2>${esc(c.title)}</h2><p class="chapo">${esc(c.intro)}</p><ol>${(c.steps||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ol>${c.shortcut?`<span class="kb">${esc(c.shortcut)}</span>`:''}${src}${fav}</div></article>`;
+  if(c.type==='oeuvre')return `<article class="card">${band}<img class="ph" loading="lazy" src="${safeUrl(c.image)}" alt="${esc(c.title)}"><div class="body"><h2>${esc(c.title)}</h2><div class="meta">${esc(c.creator)}${c.year?' · '+esc(c.year):''}${c.medium?'<br>'+esc(c.medium):''}</div>${c.extract?`<p class="ex">${esc(c.extract)}</p>`:''}${src}${fav}</div></article>`;
+  return `<article class="card">${band}<div class="body"><h2>${esc(c.title)}</h2>${c.extract?`<p class="ex">${esc(c.extract)}</p>`:''}<div class="lnk"><a href="${safeUrl(c.link)}" target="_blank" rel="noopener">Lire l’article complet →</a></div>${src}${fav}</div></article>`;
+}
+function bindFav(day,reload){
+  M.querySelectorAll('.fav').forEach(b=>b.onclick=()=>{
+    const f=ls.get('favs',{}),id=b.dataset.id,[d,i]=id.split('#');
+    if(f[id])delete f[id];else{const c=(day&&day.cards[+i])||null;if(c)f[id]={date:d,card:c,i:+i}}
+    ls.set('favs',f);if(reload)reload();else{const on=!!f[id];b.classList.toggle('on',on);b.textContent=on?'★ Favori':'☆ Favori'}
+  });
+}
+async function feed(d,back){
+  M.innerHTML='<div class="msg">Chargement…</div>';
+  const day=d&&await load(d);
+  if(!day||!day.cards.length){M.innerHTML='<div class="msg">Pas encore de page.<br>La première apparaît après le premier passage du robot (voir le guide d’installation).</div>';return}
+  M.innerHTML=(back?'<button class="back" id="bk">← Retour au calendrier</button>':'')+day.cards.map((c,i)=>cardHTML(c,d,i)).join('');
+  if(back)$('#bk').onclick=()=>{view=null;go('arch')};
+  bindFav(day);
+}
+function arch(){
+  if(view)return feed(view,true);
+  const have=new Set(idx),y=cal.getFullYear(),mo=cal.getMonth(),first=new Date(y,mo,1),off=(first.getDay()+6)%7,n=new Date(y,mo+1,0).getDate(),t=idx[idx.length-1];
+  let cells='<span></span>'.repeat(off);
+  for(let d=1;d<=n;d++){const k=y+'-'+pad(mo+1)+'-'+pad(d);cells+=`<button class="${have.has(k)?'has':''} ${k===t?'today':''}" data-k="${k}">${d}</button>`}
+  M.innerHTML=`<div class="cal-h"><button id="pv">‹</button><span>${first.toLocaleDateString('fr-FR',{month:'long',year:'numeric'})}</span><button id="nx">›</button></div><div class="grid">${['L','M','M','J','V','S','D'].map(x=>`<div class="dw">${x}</div>`).join('')}${cells}</div><p class="msg" style="padding:24px 0">Les jours cerclés d’orange ont une page. Touche-en un pour la relire.</p>`;
+  $('#pv').onclick=()=>{cal=new Date(y,mo-1,1);arch()};$('#nx').onclick=()=>{cal=new Date(y,mo+1,1);arch()};
+  M.querySelectorAll('.has').forEach(b=>b.onclick=()=>{view=b.dataset.k;arch()});
+}
+function favs(){
+  const f=Object.entries(ls.get('favs',{})).sort((a,b)=>b[1].date.localeCompare(a[1].date));
+  if(!f.length){M.innerHTML='<div class="msg">Aucun favori pour l’instant.<br>Touche « ☆ Favori » sur une fiche pour la garder ici.</div>';return}
+  M.innerHTML=f.map(([id,x])=>cardHTML(x.card,x.date,x.i)).join('');
+  bindFav(null,favs);
+}
+function notes(){
+  const ns=ls.get('notes',[]).sort((a,b)=>b.ts-a.ts);
+  M.innerHTML=`<textarea id="nt" placeholder="Une idée, une référence, un croquis à faire…"></textarea><button class="btn" id="sv">Ajouter la note</button>${ns.map(n=>`<div class="note">${esc(n.text).replace(/\n/g,'<br>')}<small><span>${new Date(n.ts).toLocaleDateString('fr-FR',{day:'numeric',month:'short',year:'numeric'})}</span><button data-id="${n.ts}">Supprimer</button></small></div>`).join('')}`;
+  $('#sv').onclick=()=>{const v=$('#nt').value.trim();if(!v)return;const a=ls.get('notes',[]);a.push({ts:Date.now(),text:v});ls.set('notes',a);notes()};
+  M.querySelectorAll('.note button').forEach(b=>b.onclick=()=>{ls.set('notes',ls.get('notes',[]).filter(n=>String(n.ts)!==b.dataset.id));notes()});
+}
+function go(t){tab=t;if(t!=='arch')view=null;document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.t===t));M.scrollTop=0;({home:()=>feed(idx[idx.length-1],false),arch,favs,notes})[t]()}
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>go(b.dataset.t));
+$('#dt').textContent=new Date().toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long'});
+(async()=>{try{const r=await fetch('data/index.json');idx=r.ok?await r.json():[]}catch(e){idx=[]}go('home')})();
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
+</script></body></html>
