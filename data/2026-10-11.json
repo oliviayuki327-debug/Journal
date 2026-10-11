@@ -1,0 +1,61 @@
+{
+ "date": "2026-10-11",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture · Dessin",
+   "title": "Roman Ruins, Villa Pamfili",
+   "creator": "Hubert Robert",
+   "year": "1774",
+   "medium": "Pen and black ink and watercolor with black chalk underdrawing and heightened with white gouache on cream laid paper",
+   "image": "https://openaccess-cdn.clevelandart.org/1951.485/1951.485_web.jpg",
+   "link": "https://clevelandart.org/art/1951.485",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "While living in Italy, Robert developed a fondness for classical architecture, making countless drawings that served as the basis for paintings and prints for decades after he returned to Paris. Denis Diderot (1713–1784), a French philosopher and art critic, nicknamed the artist “Robert of Ruins” due to Robert’s enduring interest in the subject. A quaint commentary on the passage of time, this drawing portrays the activities of contemporary life among the weathered remains of an ancient Roman building. Despite the traditional title of the drawing, there is no evidence that such ruins ever existed at the Villa Pamphili. The towering columns supporting a decorative frieze may instead derive from the Roman Forum’s Temple of Saturn.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Hubert_Robert",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Mariel Lozano Studio &quot;optimises compact layout&quot; of Mexico City apartment with custom furniture",
+   "extract": "Mexico City-based Mariel Lozano Studio has designed interiors and furniture for a hospitality project in Mexico City, organising the compact space to create \"tranquillity\" and reduce clutter. San Luis is the debut property for Stays, a concept from music and design practice Mad Monk Studios that will eventually encompass multiple rentable residences. Mariel Lozano Studio was The post Mariel Lozano Studio…",
+   "link": "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "what you’ll see (in 3D) in the peter zumthor documentary by wim wenders",
+   "extract": "developed over fourteen years, the film traces the chapels, memorials, and cultural spaces crafted by the pritzker prize-winning architect. The post what you’ll see (in 3D) in the peter zumthor documentary by wim wenders appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/what-youll-see-in-3d-in-the-peter-zumthor-documentary-by-wim-wenders/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Mahachai Residence / Patara Architects",
+   "extract": "Mahachai Residence occupies a riverside plot on the Tha Chin River, on land once occupied by the owner's boat-repair warehouse. Rather than erase this history, the house is conceived as a day-use villa, a place for the owner to rest, take in the river, and watch it turn gold at sunset, quietly carrying the memory of the site's working past into its structure and materials.",
+   "link": "https://www.archdaily.com/1186228/mahachai-residence-patara-architects",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Objet dynamique = retouche réversible",
+   "intro": "Les filtres et redimensionnements restent modifiables.",
+   "steps": [
+    "Clic droit sur le calque > Convertir en objet dynamique",
+    "Applique tes filtres : ils deviennent des filtres dynamiques",
+    "Double-clique sur l'objet pour rouvrir l'original"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=drawing%20architecture"
+ ]
+}
