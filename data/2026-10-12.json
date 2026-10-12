@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-12",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Objets · Bijou",
+   "title": "Pendant: Crocodile",
+   "creator": "",
+   "year": "1930 or earlier",
+   "medium": "Gold",
+   "image": "https://openaccess-cdn.clevelandart.org/1952.265/1952.265_web.jpg",
+   "link": "https://clevelandart.org/art/1952.265",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "This pendant was cast in gold using the lost-wax method. Gold objects are the only Baule art forms associated with ancestor spirits. Pendants can have many uses. Usually hidden in pots or suitcases, gold adornments can be displayed on important occasions such as funerals. They can be laid out around the corpse before burial. A widow will wear them on a chain around her neck or attached to her hair at the ceremony signaling the end of mourning."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "&quot;Monolithic&quot; concrete house informed by rock-cut monastic homes",
+   "extract": "Architecture studio Roomoor has completed Monastic Field, a concrete home within a temple precinct in Baleshwar that recalls the rock-cut monk's dwellings of the Deccan Plateau. Set within the site of a Jain temple, the homes was designed for the family that originally donated the land for the temple in 2005. As the temple site The post &quot;Monolithic&quot; concrete house informed by rock-cut monastic homes…",
+   "link": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "3D printed airless wheels help ground robots bring the wounded to safety",
+   "extract": "print&#038;live and iSCALE3D have developed arkan, a set of 3D printed airless wheels for unmanned ground vehicles used for casualty evacuation, ammunition transport, and logistical support. The post 3D printed airless wheels help ground robots bring the wounded to safety appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/technology/3d-printed-airless-wheels-ground-robots-wounded-safety-printlive-iscale3d-arkan/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Wise Consultation Office / RVMN",
+   "extract": "It is said that trees sway in order not to be shaken. Because they move with flexibility, they are able to remain rooted in their place and continue to grow over time. Marriage, too, is a journey that can be calm at times and shift in unexpected directions, and therefore requires a flexible attitude. In the first WISE space, this perspective on marriage and the idea of flexibility were translated into a design…",
+   "link": "https://www.archdaily.com/1186225/wise-consultation-office-rvmn",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Estampiller tous les calques visibles",
+   "intro": "Crée un calque fusionné sans toucher à tes calques d'origine.",
+   "steps": [
+    "Place-toi tout en haut de la pile",
+    "Utilise le raccourci pour obtenir une copie aplatie",
+    "Retouche ce calque ou applique un filtre dessus"
+   ],
+   "shortcut": "Ctrl/Cmd + Alt/Opt + Maj + E",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=jewelry"
+ ]
+}
