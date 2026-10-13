@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-13",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Bois",
+   "title": "Wardrobe (Kast)",
+   "creator": "",
+   "year": "c. 1625–50",
+   "medium": "oak with ebony and rosewood veneers",
+   "image": "https://openaccess-cdn.clevelandart.org/1982.57/1982.57_web.jpg",
+   "link": "https://clevelandart.org/art/1982.57",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "After the founding of the Dutch East India Company in 1602, the use of exotic, imported wood veneers in furniture became more prevalent. So too did the use of perspective and mathematical systems in laying out the veneers. The combination produced a style of decoration that spread across Europe and even to the young colonies in America."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Profondo seating by Zenith Interiors among five new products on Dezeen Showroom",
+   "extract": "Dezeen Showroom: a collection of fully upholstered, pillowy seating comprising a sofa and armchair is among five new products featured on Dezeen Showroom. Profondo seating by Zenith Interiors Australian workplace brand Zenith's Profondo seating range is made up of a sofa and armchair that share U-shaped armrests and thickly padded seats. Available in a selection The post Profondo seating by Zenith Interiors among…",
+   "link": "https://www.dezeen.com/2026/10/12/profondo-seating-zenith-interiors-furniture-accessories-dezeen-showroom/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "four pitched-roof volumes build timber-clad coastal house in belgium",
+   "extract": "house of cards by vantieghem talebi follows the asymmetrical cruciform geometry of an existing foundation and draws on the steeply pitched roofs of traditional beach houses along the belgian coast. The post four pitched-roof volumes build timber-clad coastal house in belgium appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/four-pitched-roof-volumes-timber-clad-coastal-house-of-cards-belgium/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "The Nimbus - uBLOCK Healthcare Hospitality Lounge / LUKSTUDIO",
+   "extract": "Lukstudio was invited by Shanghai United Imaging Healthcare to transform a 130-square-meter standalone building in Yishan Road Business Plaza into a ground-floor café and a second-floor private VIP lounge. Inspired by the concept of a \"tribe\", the design softens traditional medical boundaries, blurring lines between doctors and patients, interior and exterior, and formality and casualness, while using light to…",
+   "link": "https://www.archdaily.com/1186672/the-nimbus-ublock-healthcare-hospitality-lounge-lukstudio",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Dupliquer et isoler des calques",
+   "intro": "Deux gestes avec la touche Alt/Option qui font gagner du temps.",
+   "steps": [
+    "Alt/Opt + glisser un calque : le duplique",
+    "Alt/Opt + clic sur l'œil d'un calque : l'isole",
+    "Refais le geste pour tout réafficher"
+   ],
+   "shortcut": "Alt/Opt + clic sur l'œil",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=woodwork"
+ ]
+}
