@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-14",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture",
+   "title": "Yusuf and Zulaykha (recto), from an Anthology of Persian Verses, including the Haft Awrang (Seven Thrones) of Jami: The Fifth Throne",
+   "creator": "",
+   "year": "c. 1556–65",
+   "medium": "Gum tempera, ink, and gold on paper",
+   "image": "https://openaccess-cdn.clevelandart.org/1947.501.a/1947.501.a_web.jpg",
+   "link": "https://clevelandart.org/art/1947.501.a",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The painting quotes verses from the Haft Awrang (Seven Thrones) by the Persian poet Jami, a classic of Persian literature, here illustrating the romance of Yusuf and Zulaykha. Originally rooted in the Qur’an (Surah Yusuf, chapter 12), the Prophet Yusuf (Joseph) encounters the wife of the Egyptian governor, traditionally identified as Zulaykha, both seated opposite each other on the right, framed by architecture."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "OMA to convert Houston coffee plant into music school with instrument-informed architecture",
+   "extract": "Architecture studio OMA has broken ground on the Frank Liu Jr Academy for Music and Arts charter school in Houston, a pre-K through eighth-grade institution housed in a former coffee plant. The three-storey Frank Liu Jr Academy for Music and Arts (FLAMA) building will be organised around Montessori learning principles, according to the team, and The post OMA to convert Houston coffee plant into music school with…",
+   "link": "https://www.dezeen.com/2026/10/13/oma-convert-houston-coffee-plant-flama/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "wheeled pencil cabinet’s yellow and pink drawers draw from armenian volcanic stone heritage",
+   "extract": "shushana khachatrian of studio shoo designs the tuff pencil cabinet, a colorful, wheeled storage piece inspired by yerevan’s pink volcanic tuff and the chalk drawings found on its porous surfaces. The post wheeled pencil cabinet’s yellow and pink drawers draw from armenian volcanic stone heritage appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/wheeled-pencil-cabinet-yellow-pink-drawers-armenian-volcanic-stone-heritage-shushana-khachatrian-studio-shoo/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "PH Dickman / PH TIPO CASA",
+   "extract": "PH Dickman is a project that explores the recurring idea of developing our resourcefulness and inventiveness as professionals, where what truly stands out is that extra value created when something is thoughtfully designed—the famous soccer idiom of \"playing in a tight space.\"",
+   "link": "https://www.archdaily.com/1186772/ph-dickman-ph-tipo-casa",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Remplir selon le contenu",
+   "intro": "Supprimer un élément gênant sur une photo de site.",
+   "steps": [
+    "Sélectionne l'élément au lasso",
+    "Ouvre la boîte Remplir et choisis « Contenu pris en compte »",
+    "Valide, puis retouche les raccords au tampon si besoin"
+   ],
+   "shortcut": "Maj + F5",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=architecture"
+ ]
+}
