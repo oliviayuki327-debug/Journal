@@ -1,0 +1,61 @@
+{
+ "date": "2026-10-15",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Design · Mobilier",
+   "title": "Center Drawer for Cabinet",
+   "creator": "André-Charles Boulle",
+   "year": "c. 1690",
+   "medium": "ebony, marquetry in metal and tortoiseshell",
+   "image": "https://openaccess-cdn.clevelandart.org/1949.539.o/1949.539.o_web.jpg",
+   "link": "https://clevelandart.org/art/1949.539.o",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Appointed cabinetmaker to King Louis XIV in 1672, André-Charles Boulle became a master of furniture making in France during the late 1600s until his death in 1732. Known primarily for his use of marquetry, in which metal patterns are inlaid into tortoiseshell then applied within the veneered surface of the furniture, Boulle established a level of quality and craftsmanship few others could achieve. As a result, his work found favor at the royal court and among other aristocrats and diplomats eager to impress the king. The inclusion of a medallion depicting Louis XIV within the bronze decoration of this chest would have identified the owner with the royal court. Often exhibiting stout architectural proportions with elegant groups of inlaid motifs such as the parrot on the central panel of this chest, Boulle’s designs are an example of the intellectual fashion for contrasting ideas, materials, and motifs.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Andr%C3%A9-Charles_Boulle",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Recycled-plastic plinths hold furniture at &quot;secret&quot; Barragán house in Mexico City",
+   "extract": "For Design Week Mexico 2026, design studio 2x1 displayed works by French and Mexican designers on plinths in the gardens of Casa Ortega, a rarely opened private residence designed by local architect Luis Barragán in the 1940s. The Creative Immersions France-Mexico 2026 exhibition featured furniture and design objects by over 30 designers. It was the The post Recycled-plastic plinths hold furniture at…",
+   "link": "https://www.dezeen.com/2026/10/14/design-week-mexico-2026-creative-immersions-casa-ortega/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "crafted from dual-tone solid oak, TUPI lamp by estudio gris resembles bird at rest",
+   "extract": "designed by medellín-based estudio gris, tupi table lamp features a hand-turned solid oak body resembling a bird, complete with a dark wooden beak that conceals the light source to project a warm downward glow. The post crafted from dual-tone solid oak, TUPI lamp by estudio gris resembles bird at rest appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/dual-tone-solid-oak-tupi-lamp-estudio-gris-bird-rest/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Zhuozhuo Community / WEI+ Design",
+   "extract": "Located in the heart of the Taoyangli Historic District in Jingdezhen , Zhuozhuo Community is an urban regeneration project that transforms a collection of existing buildings, residential structures, and traditional alleyways into an open, multifunctional cultural community. Situated between Zhongshan North Road, a historic commercial street dating back approximately 600 years, and the Imperial Kiln archaeological…",
+   "link": "https://www.archdaily.com/1186714/zhuozhuo-community-wei-plus-design",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Camera Raw comme filtre dynamique",
+   "intro": "Corriger lumière et couleurs d'une photo de façon réversible.",
+   "steps": [
+    "Convertis le calque en objet dynamique",
+    "Filtre > Filtre Camera Raw",
+    "Règle exposition, hautes lumières, ombres ; valide"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=furniture"
+ ]
+}
