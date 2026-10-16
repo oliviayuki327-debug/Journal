@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-16",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Céramique",
+   "title": "Two-Spouted Strainer Askos (Flask) with Lid",
+   "creator": "",
+   "year": "300–200 BCE",
+   "medium": "ceramic",
+   "image": "https://openaccess-cdn.clevelandart.org/1915.529/1915.529_web.jpg",
+   "link": "https://clevelandart.org/art/1915.529",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Although now referred to by the Greek term askos, because of its resemblance to the animal skins used to hold wine in ancient Greece, this ceramic shape developed in the South Italian region of Daunia (north of Apulia, on the Adriatic coast). This example is unusual for its three openings—one covered by a lid, the others spouted with built-in strainers. Its profusely painted decoration, mostly geometric and vegetal patterns applied in black with added red and white, is arranged in bands that follow the contours of the vessel."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Tesla launches flying Roadster concept car",
+   "extract": "Electric car company Tesla has unveiled its flying Roadster vehicle with a demonstration in which the car drove upside down, flipped off a ramp and briefly flew, using compressed-air thrusters that Tesla claims will make it the world’s quickest production car. During a live event in Texas, the two-seat Roadster model drove up a half-pipe The post Tesla launches flying Roadster concept car appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/10/16/tesla-launches-flying-roadster-concept-car/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "thessaloniki’s layered historic center weaves into expandable pedestrian network",
+   "extract": "linked by a neutral urban skin, apostolopoulos tasoulis’ masterplan establishes an expandable urban network designed to unify over seventy monuments and archaeological sites across thessaloniki, greece. The post thessaloniki’s layered historic center weaves into expandable pedestrian network appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/thessaloniki-greece-layered-historic-center-expandable-pedestrian-network-armosi-masterplan-apostolopoulos-tasoulis/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Renovation of the Core Area of TAFA Art Block / Mix Architecture",
+   "extract": "To the west of the Tianjin Academy of Fine Arts lies a century-old urban fabric. With the completion of the Tianjin Eye, the Haihe River's cultural and tourism flows converge at the Sancha Estuary, yet this nearby old town had remained a value depression dormant for two or three decades in the heart of the city. In 2022, the Hebei District Government of Tianjin and the Tianjin Academy of Fine Arts signed an…",
+   "link": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Se déplacer sans changer d'outil",
+   "intro": "Naviguer dans un grand document sans perdre l'outil actif.",
+   "steps": [
+    "Maintiens Espace et glisse pour déplacer la vue",
+    "Ctrl/Cmd + Espace pour zoomer",
+    "Relâche : tu retrouves ton outil"
+   ],
+   "shortcut": "Espace",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=ceramic"
+ ]
+}
