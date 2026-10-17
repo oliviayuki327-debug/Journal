@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-17",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Verre",
+   "title": "Pair of Stained Glass Panels with Male and Female Donor",
+   "creator": "",
+   "year": "c. 1480",
+   "medium": "pot metal, white glass with silver stain",
+   "image": "https://openaccess-cdn.clevelandart.org/1919.1/1919.1_web.jpg",
+   "link": "https://clevelandart.org/art/1919.1",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The origin of these stained glass panels is unknown. They depict a male and female donor, presumably husband and wife, who gaze upon a now-lost central panel. The object of their devotions was likely a crucified Christ or a standing figure of the Virgin Mary. The man, dressed in armor, and the woman, wearing a bejeweled and richly embroidered gown, are accompanied by their not yet identified coats-of-arms. They are undoubtedly members of an aristocratic elite who commissioned these windows, perhaps for a family chapel."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Baird Architects releases first furniture collection as &quot;natural extension&quot; of studio",
+   "extract": "US architecture studio Baird Architects has released its inaugural furniture collection, with seating, tables, and shelving, designed by in-house architects and collaborators and made in Portugal. The twelve-piece BA Objeto collection was led by Baird Architects founder Matthew Baird, who designed several pieces and also commissioned studio employees and collaborators. Each piece is credited to The post Baird…",
+   "link": "https://www.dezeen.com/2026/10/16/baird-architects-first-furniture-line-ba-objeto/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "reclaiming swiss auto waste, it all remains turns decommissioned cars into building resources",
+   "extract": "it all remains, an installation by giona bierens de haan, addresses automotive waste in switzerland by reinterpreting decommissioned vehicles as structural building blocks and local resources for a post-fossil-fuel architecture. The post reclaiming swiss auto waste, it all remains turns decommissioned cars into building resources appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/reclaiming-swiss-auto-waste-it-all-remains-decommissioned-cars-building-resources-giona-bierens-de-haan/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "CCLM 280 House / Barbalaco Arquitectos",
+   "extract": "Located in a residential neighborhood in the Cañuelas district, this weekend home was conceived from the very beginning as a gathering place to share with family and friends.",
+   "link": "https://www.archdaily.com/1186948/cclm-280-house-barbalaco-arquitectos",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Calque de réglage + masque",
+   "intro": "Changer les couleurs sans abîmer l'image.",
+   "steps": [
+    "Calque > Nouveau calque de réglage (Courbes, Teinte/Saturation…)",
+    "Peins en noir sur le masque pour retirer l'effet localement",
+    "Baisse l'opacité pour doser"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=glass"
+ ]
+}
