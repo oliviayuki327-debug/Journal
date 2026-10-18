@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-18",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Textile",
+   "title": "Mandaya ikat textile (dagmay)",
+   "creator": "",
+   "year": "c. early 1900s",
+   "medium": "hemp: plain weave, dyed",
+   "image": "https://openaccess-cdn.clevelandart.org/1917.748.b/1917.748.b_web.jpg",
+   "link": "https://clevelandart.org/art/1917.748.b",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "This textile is a Mandaya abacá ikat cloth woven in southeastern Mindanao. It is made from hand-stripped abacá fibers that are resist-dyed using the Mandaya ikat technique, in which selected warp threads are tightly bound before dyeing to produce patterned sections during weaving. The designs embody Mandaya cosmology and are traditionally associated with protection, fertility, and the presence of umagad (ancestral spirits)."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Diana Kellogg updates her Tribeca home using salvaged materials",
+   "extract": "New York architect Diana Kellogg has renovated her historic Tribeca residence, highlighting materials repurposed from its industrial past. Kellogg and her family have occupied the home on Staple Street for 25 years, which is close to the studio that the architect shares with her filmmaker husband. The building originally served as cold storage for neighbouring The post Diana Kellogg updates her Tribeca home using…",
+   "link": "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "tob.studio’s timber bike station in germany resembles stacked log pile",
+   "extract": "the bike station integrates e-bike charging stations, repair facilities, and digital information, as well as public amenities including an accessible toilet and shower. The post tob.studio’s timber bike station in germany resembles stacked log pile appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/tob-studio-timber-bike-station-germany-stacked-log-pile/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Sangwich Club / east bureau",
+   "extract": "Sangwich Club is a 109.3-square-meter sandwich bar in central Almaty , designed by east bureau as a place that reveals itself gradually. Rather than building the interior around a single visual gesture, the project brings together the existing character of the space, the brand's visual language, and a series of custom-designed elements that echo one another throughout the interior.",
+   "link": "https://www.archdaily.com/1186199/sangwich-club-east-bureau",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Convertir le texte en contours",
+   "intro": "Évite les polices manquantes à l'envoi d'un fichier.",
+   "steps": [
+    "Sélectionne le texte",
+    "Texte > Vectoriser le texte (créer les contours)",
+    "Garde une copie éditable avant de le faire"
+   ],
+   "shortcut": "Maj + Ctrl/Cmd + O",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=textile"
+ ]
+}
