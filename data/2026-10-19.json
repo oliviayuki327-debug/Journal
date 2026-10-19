@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-19",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Graphisme",
+   "title": "Sagot's Gallery",
+   "creator": "Georges Alfred Bottini",
+   "year": "1898",
+   "medium": "color proof of the Remarque Woman with Cat",
+   "image": "https://openaccess-cdn.clevelandart.org/1998.42.7/1998.42.7_web.jpg",
+   "link": "https://clevelandart.org/art/1998.42.7",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The last decades of the 19th century was the golden era of French color lithography. Jules Cheret (1836–1932) popularized the technique to make colorful posters which, by 1884, were also exhibited as a legitimate art form. In 1891 Cheret began to design posters without lettering to frame and hang on walls—still an unusual idea since prints were usually stored in portfolios. The explosion in color lithography was also encouraged by the use of zinc plates, which were lighter, cheaper, and more pliable than traditional lithographic stones. Also important was the formation of artist's organizations like the Société des artistes lithographie (Society of Lithographic Artists) and the Société de l'estampe originale (Society of Original Prints), which stimulated original printmaking. By the 1890s a proliferation of fine printers, independent exhibitions, publications devoted to prints, critics, publishers, and dealers like Sagot, all supported color lithography."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Thin concrete plane defines minimalist villa in Ibiza by Fran Silvestre Arquitectos",
+   "extract": "A thin white-concrete plane folds and steps down a hillside to enclose Bellavista 11, a minimalist home overlooking the sea in Ibiza, designed by Spanish studio Fran Silvestre Arquitectos. Bellavista 11 is the first villa to be completed in The Roca Views development, a cluster of six homes designed by the Valencia-based studio in the The post Thin concrete plane defines minimalist villa in Ibiza by Fran Silvestre…",
+   "link": "https://www.dezeen.com/2026/10/18/bellavista-11-villa-fran-silvestre-arquitectos/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "mirrored acrylic skin dissolves cube pavilion into its surroundings in mexico",
+   "extract": "by blurring the boundaries between object and surroundings, the reflective pavilion shifts attention away from its own form and toward the landscape and the people that inhabit it. The post mirrored acrylic skin dissolves cube pavilion into its surroundings in mexico appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/mirrored-acrylic-skin-cube-pavilion-surroundings-mexico-errre-taller/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Shift Pc Suyu Office / RVMN",
+   "extract": "Emerging in the late 1990s, the Korean PC Bang has served as a social hub within urban youth culture, where friends gather to play games and grab a meal. Going beyond the notion of a simple internet café, it has evolved into a uniquely Korean gaming lounge that combines high-speed internet, high-performance gaming equipment, and an independent F&B service delivered directly to the users' seats.",
+   "link": "https://www.archdaily.com/1186432/shift-pc-suyu-office-rvmn",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Concepteur de formes",
+   "intro": "Fusionner ou soustraire des formes à la main, sans Pathfinder.",
+   "steps": [
+    "Sélectionne plusieurs formes",
+    "Active l'outil Concepteur de formes",
+    "Glisse pour fusionner ; Alt/Opt + clic sur une zone pour la soustraire"
+   ],
+   "shortcut": "Maj + M",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=poster"
+ ]
+}
