@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-20",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Métal",
+   "title": "Ewer",
+   "creator": "",
+   "year": "700–750",
+   "medium": "glazed earthenware, sancai (three-color ware)",
+   "image": "https://openaccess-cdn.clevelandart.org/1987.148/1987.148_web.jpg",
+   "link": "https://clevelandart.org/art/1987.148",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Many sancai or \"three-color\" lead-glazed wares-such as this ewerare notable for their heavy dependence on metalwork prototypes. Such polychrome glazed wares were intended for the tomb."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Golf clubhouse by Graham Baba nods to farm structures in rural Washington",
+   "extract": "US studio Graham Baba Architects used timber and board-formed concrete to create \"warmth and depth\" at the Westwood Golf clubhouse and driving range in an agricultural region. The project completed a refresh of the nine-hole golf course in the central Washington town of Yakima. The semi-arid region is known for its orchards and hop fields, which the architects The post Golf clubhouse by Graham Baba nods to farm…",
+   "link": "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "a tiny backpack for your phone? ninja labs introduces its stretchy magsafe flex pouch",
+   "extract": "this removable silicone pocket snaps onto your phone and stretches to fit everything from airpods to car keys. The post a tiny backpack for your phone? ninja labs introduces its stretchy magsafe flex pouch appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/backpack-phone-ninja-labs-stretchy-magsafe-flex-pouch-smartphone-pocket/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Sage Guangzhou Aranya Store / say architects",
+   "extract": "Rooted in Aranya Guangzhou's site DNA—\"half urban bustle, half lake-and-mountain scenery\"—and meeting Sage Studio's natural, relaxed lifestyle ethos, a new context takes shape. A lived-in sensibility reconciles the everyday with the poetic; directness runs through material and structure; playfulness threads scene and experience. Here, say builds for sage a small house made for holidays.",
+   "link": "https://www.archdaily.com/1186877/sage-guangzhou-aranya-store-say-architects",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Plusieurs plans de travail et export",
+   "intro": "Un seul fichier pour plusieurs planches de projet.",
+   "steps": [
+    "Outil Plan de travail pour en ajouter",
+    "Fichier > Exporter > Exporter pour les écrans",
+    "Coche « Utiliser les plans de travail » pour exporter chacun"
+   ],
+   "shortcut": "Maj + O",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=metalwork"
+ ]
+}
