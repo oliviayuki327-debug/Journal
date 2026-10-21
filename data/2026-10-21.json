@@ -1,0 +1,61 @@
+{
+ "date": "2026-10-21",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture · Dessin",
+   "title": "A Draped Female Figure (possibly an Amazon) and Architectural Studies (verso)",
+   "creator": "Correggio",
+   "year": "c. 1525",
+   "medium": "red chalk",
+   "image": "https://openaccess-cdn.clevelandart.org/2001.97.b/2001.97.b_web.jpg",
+   "link": "https://clevelandart.org/art/2001.97.b",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "In this chalk study of a lone, fallen soldier, the brown ink inscription at the bottom of the sheet indicates that at one time it was believed to be by Raphael. However, it is now attributed to Correggio based on the sensuous drawing style that focuses attention on some details, like the soldier’s leg and foot, while other contours are barely sketched and shaded. The back, or verso, of the sheet presents quick sketches of classical-style architecture and a woman with a quiver of arrows on her back; she may be an Amazon, one of a race of warrior women skilled in archery, or Diana, goddess of the hunt.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Correggio",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "STG Design unveils upcoming “unconventional, sinuous” Houston skyscraper",
+   "extract": "Texas architecture studio STG Design has released renderings of O27, an office skyscraper covered with triangular panels that is planned for Houston’s River Oaks area. The 32-storey building will contain flexible office floors, as well as luxury amenities and a rooftop terrace on top of its nine-storey base. It will have a parking garage block […] The post STG Design unveils upcoming “unconventional, sinuous”…",
+   "link": "https://www.dezeen.com/2026/10/20/stg-design-unveils-upcoming-unconventional-sinuous-houston-skyscraper/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "red-and-white aluminum safety barriers convert into public seating at dutch design week",
+   "extract": "the ‘stop!’ collection by studio martins mezulis and 13_0663_tsx reinterprets standard construction barriers into modular benches and stools, transforming restrictive street infrastructure into inviting spaces for public gathering. The post red-and-white aluminum safety barriers convert into public seating at dutch design week appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/red-white-aluminum-safety-barriers-public-seating-dutch-design-week-martins-mezulis-13_0663_tsx/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Piedra Bay House / U-Guide Space Design Atelier",
+   "extract": "At Casa Piedra Bay, the landscape is not simply contemplated; it becomes an essential part of the experience of inhabiting the house. Located in Palmar de Ocoa , Azua, Dominican Republic, the project emerges from an arid coastal setting defined by the contrast between the mountains and the Caribbean Sea. The architecture responds to this environment through a spatial composition that prioritizes natural ventilation,…",
+   "link": "https://www.archdaily.com/1187041/piedra-bay-house-u-guide-space-design-atelier",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Aligner sur un objet clé",
+   "intro": "Aligner des éléments sur une référence précise.",
+   "steps": [
+    "Sélectionne tous les objets",
+    "Clique une fois sur celui qui doit rester fixe (contour épais)",
+    "Utilise le panneau Alignement"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=drawing%20architecture"
+ ]
+}
