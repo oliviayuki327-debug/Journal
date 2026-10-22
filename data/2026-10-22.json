@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-22",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Objets · Bijou",
+   "title": "Earring with Four-Armed Vishnu Riding Garuda with Nagas (serpent divinities)",
+   "creator": "",
+   "year": "1600s or 1700s",
+   "medium": "repousse gold with pearls",
+   "image": "https://openaccess-cdn.clevelandart.org/1915.346.1/1915.346.1_web.jpg",
+   "link": "https://clevelandart.org/art/1915.346.1",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "In Nepal, sculptures of deities were adorned with jewelry larger than pieces made for human beings. This pair of earrings features the Hindu god Vishnu seated cross-legged riding his mount the man-eagle Garuda. Garuda's arms are outstretched, grabbing the tails of serpents whose braided bodies snake up both sides of each earring. His wings drape like a cape behind him, and his talons clutch his crescent moon perch. Serpent hoods rise up behind Vishnu like a canopy."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "“Hydrofeminism” and leaky saints feature in Everything Moist Seems Alive installation",
+   "extract": "The technical minimalism of artist Boris Acket and the maximalism of fake fashion house Maison the Faux come together in the installation Everything Moist Seems Alive at MU Hybrid Art House during Dutch Design Week. The multidisciplinary creatives worked with MU to devise the large-scale installation, which fills a dark, cavernous room with kinetic water […] The post “Hydrofeminism” and leaky saints feature in…",
+   "link": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "studio thusthat turns the rusty-red waste of aluminum production into delicate ceramics",
+   "extract": "with billions of tons accumulating worldwide, the studio explores new uses for one of industry's most overlooked byproducts. The post studio thusthat turns the rusty-red waste of aluminum production into delicate ceramics appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/studio-thusthat-rusty-red-waste-aluminum-production-delicate-ceramics/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Plaza Pochote Commercial Center / FAMM Arquitectura",
+   "extract": "Plaza Pochote is a commercial development designed by FAMM Arquitectura in Santa Teresa , Costa Rica. Located along the town's main road, the project responds to a predominantly linear pattern of roadside development and the limited availability of public space within a rapidly growing coastal context. Rather than consolidating the program into a continuous commercial frontage, the architecture separates two built…",
+   "link": "https://www.archdaily.com/1187198/plaza-pochote-commercial-center-famm-arquitectura",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Recolorier l'illustration",
+   "intro": "Changer toute une palette en une fois.",
+   "steps": [
+    "Sélectionne l'illustration",
+    "Sélection > Modifier les couleurs > Recolorier l'illustration",
+    "Déplace les points de la roue ou change de nuancier"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=jewelry"
+ ]
+}
