@@ -1,0 +1,61 @@
+{
+ "date": "2026-10-24",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture",
+   "title": "François Tronchin",
+   "creator": "Jean-Etienne Liotard",
+   "year": "1757",
+   "medium": "pastel on parchment",
+   "image": "https://openaccess-cdn.clevelandart.org/1978.54/1978.54_web.jpg",
+   "link": "https://clevelandart.org/art/1978.54",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "This pastel drawing depicts François Tronchin, a prominent figure in his native Geneva and an impassioned patron of the arts. The table before Tronchin features a book, mathematical instruments, and papers that indicate his interests in architecture and music. Rembrandt's Lady in Bed , a painting that the Dutch master created around 1645 (today in the collection of the Scottish National Gallery) and the most highly prized painting in Tronchin's collection, rests on an easel nearby. Liotard considered the portrait of Tronchin among his finest works, and the meticulous rendering of the sitter's powdered wig, transparent flesh, and lace cuffs suggest the skill he had developed in pastel at this time.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Jean-%C3%89tienne_Liotard",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "This week we launched the new Dezeen website",
+   "extract": "This week on Dezeen, we unveiled the updated Dezeen website, which is \"richer and more versatile\" while better reflecting what Dezeen is today. We worked with creative technology studio Made by On to refresh the look and feel of the site, building upon the foundation laid by designer Micha Weidmann, who designed the original Dezeen […] The post This week we launched the new Dezeen website appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/10/24/dezeen-website-launch-this-week/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "yotaro sakamoto’s kinetic thread column transforms human presence into shifting shadows",
+   "extract": "a delicate column formed from fine threads moves in response to nearby visitors, casting constantly changing shadows. The post yotaro sakamoto’s kinetic thread column transforms human presence into shifting shadows appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/yotaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Colien House / Álvaro Siza Vieira",
+   "extract": "The slope related to the access street and the willingness to act just on the essentials, regarding the topography and site vegetation, guided the program organization of Colien House into a compact volume that staged descends the terrain slope.",
+   "link": "https://www.archdaily.com/1019867/colien-house-alvaro-siza-vieira-plus-alvaro-fonseca",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Outil Largeur",
+   "intro": "Faire varier l'épaisseur d'un trait, comme à la plume.",
+   "steps": [
+    "Trace un contour",
+    "Choisis l'outil Largeur",
+    "Tire sur le tracé pour élargir ou affiner à l'endroit voulu"
+   ],
+   "shortcut": "Maj + W",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=architecture"
+ ]
+}
