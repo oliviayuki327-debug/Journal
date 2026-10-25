@@ -1,0 +1,61 @@
+{
+ "date": "2026-10-25",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Design · Mobilier",
+   "title": "Marble Top for Cabinet",
+   "creator": "André-Charles Boulle",
+   "year": "c. 1690",
+   "medium": "ebony, marquetry in metal and tortoiseshell",
+   "image": "https://openaccess-cdn.clevelandart.org/1949.539.b/1949.539.b_web.jpg",
+   "link": "https://clevelandart.org/art/1949.539.b",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Appointed cabinetmaker to King Louis XIV in 1672, André-Charles Boulle became a master of furniture making in France during the late 1600s until his death in 1732. Known primarily for his use of marquetry, in which metal patterns are inlaid into tortoiseshell then applied within the veneered surface of the furniture, Boulle established a level of quality and craftsmanship few others could achieve. As a result, his work found favor at the royal court and among other aristocrats and diplomats eager to impress the king. The inclusion of a medallion depicting Louis XIV within the bronze decoration of this chest would have identified the owner with the royal court. Often exhibiting stout architectural proportions with elegant groups of inlaid motifs such as the parrot on the central panel of this chest, Boulle’s designs are an example of the intellectual fashion for contrasting ideas, materials, and motifs.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Andr%C3%A9-Charles_Boulle",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Ste Marie imbues Monos Vancouver office with &quot;residential quality&quot;",
+   "extract": "Canadian interiors studio Ste Marie has designed the Vancouver headquarters of luggage brand Monos to emphasise simplicity and shift mood throughout the day. Located in the city's Mount Pleasant neighbourhood, the Monos office was created to reflect the brand's development to date and provide space for continued growth. Ste Marie was presented with an open-ended […] The post Ste Marie imbues Monos Vancouver office…",
+   "link": "https://www.dezeen.com/2026/10/24/monos-headquarters-vancouver-ste-marie/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "split ceramic curves cast soft reflected light in dimmable table lamp",
+   "extract": "designed by alexey danilin for maytoni, hope is a table lamp featuring a split ceramic body that conceals internal LEDs. The post split ceramic curves cast soft reflected light in dimmable table lamp appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/split-ceramic-curves-soft-reflected-light-dimmable-table-lamp-alexey-danilin-maytoni-hope/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Ikebukuro Living Furniture - Tram Stop / Yosuke SAGOSHI Atelier",
+   "extract": "This broad avenue, extending from Ikebukuro Station toward Marunouchi, was once traversed by Toden trams, with a terminal located right in front of the station. Lines ran from Ikebukuro toward Ueno and Sukiyabashi. One can only imagine the myriad stories that must have unfolded at those stops.",
+   "link": "https://www.archdaily.com/1186237/ikebukuro-living-furniture-tram-stop-yosuke-sagoshi-atelier",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Repères commentés",
+   "intro": "Les repères intelligents affichent alignements et distances en direct.",
+   "steps": [
+    "Active-les avec le raccourci",
+    "Déplace un objet près d'un autre",
+    "Suis les indications pour caler précisément"
+   ],
+   "shortcut": "Ctrl/Cmd + U",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=furniture"
+ ]
+}
