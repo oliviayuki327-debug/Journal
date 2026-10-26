@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-26",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Céramique",
+   "title": "Black-Gloss Mesomphalic Phiale (Libation Bowl): Apotheosis of Herakles",
+   "creator": "",
+   "year": "200s BCE",
+   "medium": "ceramic",
+   "image": "https://openaccess-cdn.clevelandart.org/1926.515/1926.515_web.jpg",
+   "link": "https://clevelandart.org/art/1926.515",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Four four-horse chariots proceed around the interior of this libation bowl, each driven by a winged Nike (Victory) and accompanied by a flying Eros. Each carries a different figure—Athena, Herakles, Ares, and Dionysos—and small animals race along before the horses. The appearance of Herakles with these Olympians suggests his apotheosis."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Roca releases innovative all-in-one Avant toilet",
+   "extract": "Spanish bathroom brand Roca has rethought conventional toilet design with Avant, integrating the cistern within the toilet itself. For the Avant toilet, Roca designed the cistern to sit within the bowl, removing the external cistern on its floor-standing model and the concealed cistern and flush plate on its wall-hung version. Avant's cistern uses flushing technology […] The post Roca releases innovative all-in-one…",
+   "link": "https://www.dezeen.com/2026/10/26/roca-innovative-avant-toilet/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "stepped timber platforms and operable textiles shape circular düsseldorf home by urselmann interior",
+   "extract": "urselmann interior renovates a 1939 apartment in düsseldorf using reversible dry joinery, nine manufacturer take-back agreements, and flexible multi-tiered platforms to achieve a circular residential interior. The post stepped timber platforms and operable textiles shape circular düsseldorf home by urselmann interior appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/stepped-timber-platforms-operable-textiles-circular-dusseldorf-home-urselmann-interior/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "SIP Coffee and Bakery / movs studio",
+   "extract": "SIP is a coffee and bakery shop in a shopping mall in Almaty , Kazakhstan, designed by MOVS STUDIO. A mall is a place of constant movement, with crowds, music, and bright shopfronts competing for attention, and the studio set out to give visitors a short rest from all of it. The name already holds the idea: a sip is a small, unhurried act, and the interior turns it into a place to slow down.",
+   "link": "https://www.archdaily.com/1187273/sip-coffee-and-bakery-movs-studio",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Sélectionner le sujet en un clic",
+   "intro": "Détourer une façade, un objet ou une personne sans outil manuel.",
+   "steps": [
+    "Menu Sélection > Sujet",
+    "Affine avec Sélectionner et masquer si les bords sont durs",
+    "Ajoute un masque de calque plutôt que de supprimer le fond"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=ceramic"
+ ]
+}
