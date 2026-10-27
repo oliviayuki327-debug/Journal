@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-27",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Verre",
+   "title": "Box",
+   "creator": "Tiffany Glass & Decorating Company",
+   "year": "c. 1898–1902",
+   "medium": "Favrile glass, enamel on copper",
+   "image": "https://openaccess-cdn.clevelandart.org/2018.290.a/2018.290.a_web.jpg",
+   "link": "https://clevelandart.org/art/2018.290.a",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "By 1900 Tiffany had expanded his empire by increasing the firm’s production of “fancy goods,” including inkstands, candlesticks, clocks, small boxes, desk sets, tea screens, and other functional objects. Along with the array of artistic glass designs from his factory in Corona, Queens, works in ceramic, bronze, other metals, and even jewelry abounded. These smaller, more affordable luxury items were designed with as much thought to artistry as the great stained glass windows and lamps through which the firm enjoyed unrivaled success."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Paralelo Transversal organises Chilean house under cantilever roof",
+   "extract": "Chilean studio Paralelo Transversal has designed a rectangular house with a large hip roof and a terrace that cantilevers over a ravine in Puerto Varas, Chile. Completed in 2025 on a 1.2-acre site near Lago Llanquihue, the 155-square-metre house, known as Casa Ensenada, was oriented around its roof. “In southern Chile, rain is not an […] The post Paralelo Transversal organises Chilean house under cantilever roof…",
+   "link": "https://www.dezeen.com/2026/10/26/paralelo-transversal-casa-ensenada-chile/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "jorge diego etienne exhibits 15 years of design prototypes at mexico city’s museo franz mayer",
+   "extract": "mockups before fuckups at museo franz mayer opens the archives of jorge diego etienne, revealing nearly 15 years of sketches, prototypes, and material tests behind the monterrey-based designer's practice. The post jorge diego etienne exhibits 15 years of design prototypes at mexico city’s museo franz mayer appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/jorge-diego-etienne-15-years-design-prototypes-mexico-city-museo-franz-mayer-mockups-before-fuckups/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Casa Cardona / Sensacional Dinámica Mexicana",
+   "extract": "Initially conceived as a conventional 165 m² real estate development, the residence demonstrates how an architectural proposal can transcend commercial parameters to create spatial, cultural, and human value. Its architecture establishes an intimate dialogue with the desert, transforming the conditions of its surroundings into a distinctive domestic experience.",
+   "link": "https://www.archdaily.com/1187539/casa-cardona-sensacional-dinamica-mexicana",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Objet dynamique = retouche réversible",
+   "intro": "Les filtres et redimensionnements restent modifiables.",
+   "steps": [
+    "Clic droit sur le calque > Convertir en objet dynamique",
+    "Applique tes filtres : ils deviennent des filtres dynamiques",
+    "Double-clique sur l'objet pour rouvrir l'original"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=glass"
+ ]
+}
