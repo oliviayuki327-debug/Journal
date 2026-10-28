@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-28",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Textile",
+   "title": "Fragment of a furnishing textile",
+   "creator": "",
+   "year": "1800s",
+   "medium": "Cotton, silk, dye",
+   "image": "https://openaccess-cdn.clevelandart.org/1933.422/1933.422_web.jpg",
+   "link": "https://clevelandart.org/art/1933.422",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The dense blue embroidery on this fragment is associated with the city of Fes, and was likely part of a larger textile used to decorate the interior of a Moroccan home. It might have been used as a cover for a pillow or low sofas lining the walls of a sitting room. Historically, some of these textiles were described as \"Aleuj\" (a pejorative term loosely translating to 'convert') and thought to be made by Circassian women from the Caucasus region in western Asia."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Manual&#039;s camera shop in New York is imbued with &quot;philosophy of skate shop&quot;",
+   "extract": "Design-build studio Protean Practice and camera company Manual have collaborated on the brand's first storefront and photo lab, outfitting a Chinatown shop with plywood seating, metallic finishes and baby-pink accents. The post Manual&#039;s camera shop in New York is imbued with &quot;philosophy of skate shop&quot; appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/10/27/protean-practice-manual-photo-lab-chinatown/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "meet otter, the portable newborn warmer designed for hospitals with unreliable power",
+   "extract": "design that matters and MTTS rethink newborn warming with an integrated, heat-conducting bassinet designed for the realities of low-resource healthcare settings. The post meet otter, the portable newborn warmer designed for hospitals with unreliable power appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/otter-portable-newborn-warmer-hospitals-unreliable-power-design-matters-mtts-2026-seoul-design-award/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "UMG sede Antigua Guatemala / Atelier oficina de Arquitectura",
+   "extract": "The UMG Campus in Antigua Guatemala represents a critical case study in bridging traditional colonial architecture with massive institutional scale. Developed by ATELIER Oficina de Arquitectura, the primary challenge of this project was adapting a small-scale colonial design to a large-scale complex. We understood early in the planning phase that simply replicating historical facades is insufficient without…",
+   "link": "https://www.archdaily.com/1187580/umg-sede-antigua-guatemala-atelier-oficina-de-arquitectura",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Estampiller tous les calques visibles",
+   "intro": "Crée un calque fusionné sans toucher à tes calques d'origine.",
+   "steps": [
+    "Place-toi tout en haut de la pile",
+    "Utilise le raccourci pour obtenir une copie aplatie",
+    "Retouche ce calque ou applique un filtre dessus"
+   ],
+   "shortcut": "Ctrl/Cmd + Alt/Opt + Maj + E",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=textile"
+ ]
+}
