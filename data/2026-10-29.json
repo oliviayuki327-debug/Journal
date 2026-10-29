@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-29",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Graphisme",
+   "title": "Street Advertising",
+   "creator": "John Thomson",
+   "year": "1876–77",
+   "medium": "woodburytype",
+   "image": "https://openaccess-cdn.clevelandart.org/2022.78/2022.78_web.jpg",
+   "link": "https://clevelandart.org/art/2022.78",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The poster being pasted up by the two men in the late 1870s is an ad for Mme. Tussaud’s London, a museum of wax figures that is still in business today. The image was part of John Thomson’s publication Street Life in London , a group of essays and photographsthat was one of the first published compilations of social documentary photographs. It holds a place of honor in the histories of photography, the book, ethnology, and sociology."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "C Next Designers EMEA brings together over 250 professionals for design conference in Almería",
+   "extract": "For the ninth edition of the C Next Designers design conference, Spanish brand Cosentino brought together designers from Europe, Africa and the Middle East for three days of talks focused on “design as a driver of change”. The event was held from 13 to 16 October in venues across Almería, Spain and included talks by […] The post C Next Designers EMEA brings together over 250 professionals for design conference in…",
+   "link": "https://www.dezeen.com/2026/10/29/c-next-designers-emea-almeria-cosentino/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "desert-inspired sensory playground brings kid’s perspective to downtown el paso",
+   "extract": "designed by miguel mendoza for the chalk the block festival, desert playgola combines recycled timber, iridescent curtains, and desert-inspired sculptures in an interactive public installation. The post desert-inspired sensory playground brings kid’s perspective to downtown el paso appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/nomada-desert-playgola-childrens-playground-el-paso/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Yakisugi House / Estudio Mazara",
+   "extract": "Designed by Mazara Estudio Arquitectura, this private residence establishes a close dialogue between its built spaces and the surrounding tropical landscape. The architectural composition brings together elongated horizontal volumes, lightweight pitched roofs, and a restrained material palette of natural stone, wood, and dark-toned structural elements.",
+   "link": "https://www.archdaily.com/1187678/yakisugi-house-estudio-mazara",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Dupliquer et isoler des calques",
+   "intro": "Deux gestes avec la touche Alt/Option qui font gagner du temps.",
+   "steps": [
+    "Alt/Opt + glisser un calque : le duplique",
+    "Alt/Opt + clic sur l'œil d'un calque : l'isole",
+    "Refais le geste pour tout réafficher"
+   ],
+   "shortcut": "Alt/Opt + clic sur l'œil",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=poster"
+ ]
+}
