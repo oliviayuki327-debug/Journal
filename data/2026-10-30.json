@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-30",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Métal",
+   "title": "Figural Pendant",
+   "creator": "",
+   "year": "400–700",
+   "medium": "cast gold",
+   "image": "https://openaccess-cdn.clevelandart.org/1946.80/1946.80_web.jpg",
+   "link": "https://clevelandart.org/art/1946.80",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "This emphatically male figure combines a human body with a composite animal head. The antlers are the stag's; the snout, perhaps a snarling feline's; and the hair is formed of braided serpents whose heads hiss from the figure's shoulders. The extended tongue may convey aggression or perhaps death because dying animals are depicted with lolling tongues. Either condition is in keeping with the creature's ferocity."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Lighting design a &quot;strategic economic investment&quot; says Signify&#039;s Sameer Sodhi",
+   "extract": "According to business leader of entertainment and colour kinetics at lighting brand Signify, Sameer Sodhi, lit-up architecture and public installations can encourage interaction, strengthen local identity and support overall wellbeing. Sodhi explained that for decades, the value of a building has been measured by appearance, energy performance, return on investment and construction costs. A building's […] The post…",
+   "link": "https://www.dezeen.com/2026/10/30/lighting-design-strategic-economic-signifys-sameer-sodhi/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "sculptural brass petals and silk embroideries detail isabel mayfair restaurant in abu dhabi",
+   "extract": "the interior palette juxtaposes reflective polished brass, heavily veined calacatta viola marble, dark stained oak, and midnight-blue velvet upholstery across curved custom banquettes. The post sculptural brass petals and silk embroideries detail isabel mayfair restaurant in abu dhabi appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/readers/sculptural-brass-petals-silk-embroideries-isabel-mayfair-restaurant-abu-dhabi-dbm/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "House in Ibiza, The Roca Views / Fran Silvestre Arquitectos",
+   "extract": "Can we build on this hillside by placing a single element upon it? In response to this question, the project is conceived as a very thin plane, just 15 centimetres thick, which folds along the natural slope of the terrain while simultaneously responding to the constraints of the regulations.",
+   "link": "https://www.archdaily.com/1187789/house-in-ibiza-the-roca-views-fran-silvestre-arquitectos",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Remplir selon le contenu",
+   "intro": "Supprimer un élément gênant sur une photo de site.",
+   "steps": [
+    "Sélectionne l'élément au lasso",
+    "Ouvre la boîte Remplir et choisis « Contenu pris en compte »",
+    "Valide, puis retouche les raccords au tampon si besoin"
+   ],
+   "shortcut": "Maj + F5",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=metalwork"
+ ]
+}
