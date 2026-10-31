@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-31",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture · Dessin",
+   "title": "Nudes in a Landscape",
+   "creator": "Jean-Jacques-François Lebarbier, called Le Barbier L’Aîné",
+   "year": "1781",
+   "medium": "Pen and black ink and watercolor",
+   "image": "https://openaccess-cdn.clevelandart.org/2018.50/2018.50_web.jpg",
+   "link": "https://clevelandart.org/art/2018.50",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Le Barbier’s watercolor reflects the taste for Neoclassicism in late 18th-century France. In addition to the representation of nude figures, the artist’s admiration for antique art and architecture is also seen in the statuesque group of robed women standing in the central middle ground and the classicizing round temple on the right."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Dubai Design Week&#039;s 12th edition celebrates bold Middle Eastern design",
+   "extract": "From an eye-catching exhibition spotlighting geometric forms to installations designed by prominent architects, Dubai Design Week is set to host its 12th edition to honour the Middle East's vibrant design, craft and culture. The programme takes place across Dubai Design District (d3), the city’s creative hub, from 3 to 8 November 2026. The festival’s headline […] The post Dubai Design Week&#039;s 12th edition…",
+   "link": "https://www.dezeen.com/2026/10/30/dubai-design-week-downtown-design-12-edition/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "woven bamboo armchair clad in UV-reactive crocheted blooms glows in the dark",
+   "extract": "peiyang (camille) li designs she blooms in the dark, an intimate woven bamboo armchair clad in hand-crocheted blossoms made from uv-reactive yarn that absorb daylight and emit a soft nocturnal glow. The post woven bamboo armchair clad in UV-reactive crocheted blooms glows in the dark appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/woven-bamboo-armchair-uv-reactive-crocheted-blooms-dark-peiyang-camille-li/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Rancho del Abuelo / Mendiola Arregui",
+   "extract": "Rancho del Abuelo is an equestrian complex located in Jalisco, on the outskirts of Guadalajara . Its program coordinates spaces dedicated to the sheltering and care of horses with others designed for resting, gathering, and contemplation, establishing different ways of living and engaging with the landscape and equestrian life.",
+   "link": "https://www.archdaily.com/1187853/rancho-del-abuelo-mendiola-arregui",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Camera Raw comme filtre dynamique",
+   "intro": "Corriger lumière et couleurs d'une photo de façon réversible.",
+   "steps": [
+    "Convertis le calque en objet dynamique",
+    "Filtre > Filtre Camera Raw",
+    "Règle exposition, hautes lumières, ombres ; valide"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=drawing%20architecture"
+ ]
+}
