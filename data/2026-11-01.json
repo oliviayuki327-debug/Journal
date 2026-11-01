@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-01",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Objets · Bijou",
+   "title": "Ivory Box with Scenes of Adam and Eve",
+   "creator": "",
+   "year": "1000–1100s",
+   "medium": "ivory, wood",
+   "image": "https://openaccess-cdn.clevelandart.org/1924.747/1924.747_web.jpg",
+   "link": "https://clevelandart.org/art/1924.747",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Scenes from the Old Testament stories of Adam and Eve and their children, Cain and Abel, decorate this box, which may have been made to contain jewelry or small valuables. On its lid two plaques depict the creation of Adam and the creation of Eve from Adam’s rib. Two further plaques depict Cain slaying Abel: Cain throws a stone in the direction of Abel, who is hit by stones in the hip, chest, and head."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Em-Estudio lines Mexico City bar with walls of books",
+   "extract": "The vintage bookstores of Mexico City's Roma neighbourhood influenced the interiors of this basement bar, designed by local outfit Em-Estudio. The post Em-Estudio lines Mexico City bar with walls of books appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "chromatic pavilions and modular play structures activate historic istanbul rami library",
+   "extract": "milimetrik architects transforms the courtyard and interiors of istanbul's historic rami library into a 91,000 sqm environment for play and shared family experiences, welcoming approximately 825,000 visitors in eleven days. The post chromatic pavilions and modular play structures activate historic istanbul rami library appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/chromatic-pavilions-modular-play-structures-historic-istanbul-rami-library-milimetrik-architects/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Konya Square Houses and Bicycle Museum Extension / Yalin Architectural Design",
+   "extract": "Konya Square Houses consists of 13 reinforced-concrete buildings constructed in 2005, drawing on the traditional Konya houses and neighborhood fabric that existed on the site until 1955. Over the years, the complex accommodated various non-governmental organizations and municipal departments.",
+   "link": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Se déplacer sans changer d'outil",
+   "intro": "Naviguer dans un grand document sans perdre l'outil actif.",
+   "steps": [
+    "Maintiens Espace et glisse pour déplacer la vue",
+    "Ctrl/Cmd + Espace pour zoomer",
+    "Relâche : tu retrouves ton outil"
+   ],
+   "shortcut": "Espace",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=jewelry"
+ ]
+}
