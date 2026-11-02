@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-02",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Bois",
+   "title": "Headrest",
+   "creator": "",
+   "year": "1800s–1900s",
+   "medium": "Wood",
+   "image": "https://openaccess-cdn.clevelandart.org/2010.198/2010.198_web.jpg",
+   "link": "https://clevelandart.org/art/2010.198",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The shape of this four-legged headrest alludes to cattle, whether bull, ox, or cow. This reference services from the fact that these animals are a source of wealth but also act as mediators between the living and the dead. In earlier days, both headrests and cattle were used in dowry transactions."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Lacaton &#038; Vassal wins Le Prix Charlotte Perriand 2027",
+   "extract": "The Créateurs Design Association &#038; Awards has named Pritzker Prize-winning French studio Lacaton &#038; Vassal the recipient of the Le Prix Charlotte Perriand 2027. The post Lacaton & Vassal wins Le Prix Charlotte Perriand 2027 appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/02/lacaton-vassal-le-prix-charlotte-perriand-2027/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "how ecoLogicStudio uses living organisms to build better spaces for living",
+   "extract": "architecture need not exclude microbes: these projects use algae, fungi and bacteria as active parts of healthier living environments. The post how ecoLogicStudio uses living organisms to build better spaces for living appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/how-ecologicstudio-uses-living-organisms-to-build-better-spaces-for-living/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "SE House / Kantor Gunawan Gunawan",
+   "extract": "SE House stands as a quiet manifesto for tropical living, conceived as an urban oasis that reinterprets Australian-inspired design for Surabaya's vibrant context. Anchored by a courtyard that reflects the owner's attentiveness to landscape, the residence embodies natural sensibilities through design choices that promote airflow, permeability, and daily connection to foliage inside and out. Its philosophy is subtle…",
+   "link": "https://www.archdaily.com/1187664/se-house-kantor-gunawan-gunawan",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Calque de réglage + masque",
+   "intro": "Changer les couleurs sans abîmer l'image.",
+   "steps": [
+    "Calque > Nouveau calque de réglage (Courbes, Teinte/Saturation…)",
+    "Peins en noir sur le masque pour retirer l'effet localement",
+    "Baisse l'opacité pour doser"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=woodwork"
+ ]
+}
