@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-03",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture",
+   "title": "Architecture",
+   "creator": "Marie Bracquemond",
+   "year": "1878",
+   "medium": "black chalk on pale pink wove paper",
+   "image": "https://openaccess-cdn.clevelandart.org/2023.165/2023.165_web.jpg",
+   "link": "https://clevelandart.org/art/2023.165",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Marie Bracquemond was among a few women artists within the Impressionist circle. After exhibiting at the Salon from a relatively young age, she married the printmaker Félix Bracquemond and met artists such as Claude Monet and Edgar Degas through his friendship with them. This drawing is one of several compositions related to Muses of the Arts , one of Bracquemond’s best known works, featuring personifications of various artforms—such as, here, architecture. The completed work was featured in the Exposition Universelle in 1878, while the related drawings, possibly including this one, were singled out for praise in the 1879 Impressionist group exhibition.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Marie_Bracquemond",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Pratt&#039;s evolving courses reflect &quot;broader shift in creative practice&quot;",
+   "extract": "From architects using digital fabrication tools to how graphic designers can enhance their work with AI, Pratt Institute has responded to the increasing fluidity of creative careers by launching three new flexible programmes. Pratt Institute's School of Continuing and Professional Studies (SCPS) offers flexible programmes for both working creatives and lifelong designers who want to […] The post Pratt&#039;s…",
+   "link": "https://www.dezeen.com/2026/11/03/pratts-courses-shift-creative-practice/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "ultramarine drapes and restored 1950s marble anchor cinemazero redesign by alberto caiola",
+   "extract": "bridging past and present, monochrome and color, cinema and community, cinemazero’s multisite renewal comprises a reimagined foyer, social and events hub spaziozero, and an expanded mediateca. The post ultramarine drapes and restored 1950s marble anchor cinemazero redesign by alberto caiola appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/ultramarine-drapes-restored-1950s-marble-cinemazero-redesign-alberto-caiola/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Akartz House / Ápiron",
+   "extract": "Casa Akartz was developed from a composition of independent volumes whose arrangement responds to solar orientation, the irregular geometry of the site, and its topographic variations.",
+   "link": "https://www.archdaily.com/1187965/akartz-house-apiron",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Convertir le texte en contours",
+   "intro": "Évite les polices manquantes à l'envoi d'un fichier.",
+   "steps": [
+    "Sélectionne le texte",
+    "Texte > Vectoriser le texte (créer les contours)",
+    "Garde une copie éditable avant de le faire"
+   ],
+   "shortcut": "Maj + Ctrl/Cmd + O",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=architecture"
+ ]
+}
