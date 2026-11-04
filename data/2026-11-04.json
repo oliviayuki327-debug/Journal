@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-04",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Design · Mobilier",
+   "title": "Sideboard",
+   "creator": "Joseph Alexis Bailly",
+   "year": "c. 1855",
+   "medium": "walnut",
+   "image": "https://openaccess-cdn.clevelandart.org/1985.72/1985.72_web.jpg",
+   "link": "https://clevelandart.org/art/1985.72",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Newly acquired wealth from railroad production, manufacturing, and an expanded economy produced a new elite class of Americans who looked abroad for sources of decoration to adorn their lives. Grand, baronial furniture, reminiscent of German hunting lodges or French castles, became popular during the mid 1800s among America’s wealthy. Elaborate displays of abundance were reflected in the carvings of flora, fauna, and freshly hunted game. The depictions of Native American hunters on this example, most likely made in Philadelphia, may have meant that this piece was displayed at one of the many international expositions that occurred during this period.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Joseph_Alexis_Bailly",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Tatiana Bilbao creates rammed-earth installation at Art Omi",
+   "extract": "Tatiana Bilbao Estudio has created a large-scale outdoor installation for New York arts centre Art Omi, which is made of rammed-earth sourced from local soil that will break down over time. The post Tatiana Bilbao creates rammed-earth installation at Art Omi appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/03/tatiana-bilbao-creates-rammed-earth-installation-at-art-omi/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "live-build documentary captures 1:1 timber pavilions at studio in the woods workshop",
+   "extract": "marking the 20th anniversary of studio in the woods, the documentary crossing, lookout, horizon chronicles the design and construction of three full-scale timber installations built from site-felled timber at the AA’s hooke park campus. The post live-build documentary captures 1:1 timber pavilions at studio in the woods workshop appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/live-build-documentary-11-timber-pavilions-studio-woods-workshop/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Hotel Amares / Cel-Ras Arquitectura",
+   "extract": "Amares stands on a 14,152 m² beachfront site on Playa El Estillero, near El Limón, on the northern coast of the Samaná Peninsula in the Dominican Republic. The plot lies between the Atlantic and a backdrop of coconut palms and tropical forest, in one of the few stretches of Caribbean coast still free from large-scale tourism.",
+   "link": "https://www.archdaily.com/1187993/amares-cel-ras-arquitectura",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Concepteur de formes",
+   "intro": "Fusionner ou soustraire des formes à la main, sans Pathfinder.",
+   "steps": [
+    "Sélectionne plusieurs formes",
+    "Active l'outil Concepteur de formes",
+    "Glisse pour fusionner ; Alt/Opt + clic sur une zone pour la soustraire"
+   ],
+   "shortcut": "Maj + M",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=furniture"
+ ]
+}
