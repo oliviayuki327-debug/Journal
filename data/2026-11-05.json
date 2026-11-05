@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-05",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Céramique",
+   "title": "Black-Figure Dinos (Mixing Vessel): Warships (Int.); Heroic Scenes (Top)",
+   "creator": "Antimenes Painter",
+   "year": "c. 520–515 BCE",
+   "medium": "ceramic",
+   "image": "https://openaccess-cdn.clevelandart.org/1971.46/1971.46_web.jpg",
+   "link": "https://clevelandart.org/art/1971.46",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Designed for use at a symposium, or drinking party, this large dinos has a wide mouth allowing easy access to its contents—wine mixed with water (and sometimes other ingredients for flavoring). While drinking, symposiasts would often recite poetry and celebrate the mythological exploits of gods and heroes, perhaps prompted by the images painted on their pottery. Here, the vase-painter clearly anticipated such use; when the vessel was full, the ships painted on the inside of the rim would appear to sail across the “wine-dark sea” (to borrow a phrase found frequently in Homer’s Iliad and Odyssey ) . Other heroic scenes, including Herakles wrestling the Nemean lion and Theseus battling the Minotaur, appear on top of the rim, interspersed with chariots and anonymous combats.",
+   "extractLink": "https://en.wikipedia.org/wiki/Antimenes_Painter",
+   "extractSrc": "Wikipédia (en)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Final chance to buy Dezeen Awards 2026 party tickets",
+   "extract": "Ticket sales for this year's Dezeen Awards party, taking place on 16 November at the Royal Opera House in London, will close next week. Tickets are available until 23:59 London time on 10 November, meaning there are just a few more days left to secure your place. Book your tickets now before sales close. An […] The post Final chance to buy Dezeen Awards 2026 party tickets appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/04/dezeen-awards-2026-party-tickets-final-chance/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "SpY installs giant black triangle in madrid square to explore urban surveillance",
+   "extract": "the 20-meter black triangular intervention is equipped with concealed viewing apertures and apex-mounted CCTV cameras that return fragmented live feeds of the surrounding plaza. The post SpY installs giant black triangle in madrid square to explore urban surveillance appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/spy-giant-black-triangle-madrid-square-urban-surveillance-panopticon/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Tabasco 267 Apartment / CAAM Arquitectos",
+   "extract": "Tabasco 267 is the renovation of a 90-square-meter (968-square-foot) apartment in the Roma Norte neighborhood of Mexico City. CAAM used the existing conditions as the project's primary raw material, transforming the layout, ceilings, finishes, lighting, and furniture.",
+   "link": "https://www.archdaily.com/1188090/tabasco-267-apartment-caam-arquitectos",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Plusieurs plans de travail et export",
+   "intro": "Un seul fichier pour plusieurs planches de projet.",
+   "steps": [
+    "Outil Plan de travail pour en ajouter",
+    "Fichier > Exporter > Exporter pour les écrans",
+    "Coche « Utiliser les plans de travail » pour exporter chacun"
+   ],
+   "shortcut": "Maj + O",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=ceramic"
+ ]
+}
