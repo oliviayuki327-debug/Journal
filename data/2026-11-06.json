@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-06",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Verre",
+   "title": "Stained Glass Panel with Female Donor",
+   "creator": "",
+   "year": "c. 1480",
+   "medium": "pot metal, white glass with silver stain ",
+   "image": "https://openaccess-cdn.clevelandart.org/1919.1.2/1919.1.2_web.jpg",
+   "link": "https://clevelandart.org/art/1919.1.2",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The origin of these stained glass panels is unknown. They depict a male and female donor, presumably husband and wife, who gaze upon a now-lost central panel. The object of their devotions was likely a crucified Christ or a standing figure of the Virgin Mary. The man, dressed in armor, and the woman, wearing a bejeweled and richly embroidered gown, are accompanied by their coats-of-arms (unidentified). They are undoubtedly members of an aristocratic elite who commissioned these windows, perhaps for a family chapel."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "4Space draws on cultural significance of Arabian horses for UAE restaurant",
+   "extract": "Design studio 4Space “explored the physical and kinetic qualities” of horses for the fluid, organic design of Falwa, an Abu Dhabi restaurant celebrating modern Emirati cuisine.&#160; Located in the Abu Dhabi Royal Equestrian Art (ADREA) academy, the contemporary restaurant is led by Michelin-starred Emirati chef Faisal Alharmoodi. To showcase the importance of the Arabian mare […] The post 4Space draws on cultural…",
+   "link": "https://www.dezeen.com/2026/11/06/4space-cultural-significance-arabian-horses-uae-restaurant/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "demi nguyen balances corporate branding, fintech systems, and typographic archives",
+   "extract": "demi nguyen translates complex ideas into visual identities, digital experiences, and communication systems, balancing strategic precision with an expressive approach to storytelling. The post demi nguyen balances corporate branding, fintech systems, and typographic archives appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/readers/demi-nguyen-corporate-branding-fintech-systems-typographic-archives/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Instructions for Talking to Birds Anti-Pavilion / Yemail Arquitectura",
+   "extract": "Punta del Lacho, in the municipality of El Tabo, is part of Chile's so-called \"Coast of the Poets\": a Pacific geography where sea, rock, wind, cultural memory, and the voices of Vicente Huidobro, Pablo Neruda, and Nicanor Parra converge. On this coastline, near the Coastal Marine Research Station of the Pontificia Universidad Católica de Chile, lies this intervention developed within the framework of AULA by LA…",
+   "link": "https://www.archdaily.com/1188153/instructions-for-talking-to-birds-anti-pavilion-yemail-arquitectura",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Aligner sur un objet clé",
+   "intro": "Aligner des éléments sur une référence précise.",
+   "steps": [
+    "Sélectionne tous les objets",
+    "Clique une fois sur celui qui doit rester fixe (contour épais)",
+    "Utilise le panneau Alignement"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=glass"
+ ]
+}
