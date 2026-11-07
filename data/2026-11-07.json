@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-07",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Textile",
+   "title": "Textile Fragment",
+   "creator": "",
+   "year": "c. 50–650 CE",
+   "medium": "cotton and camelid fiber",
+   "image": "https://openaccess-cdn.clevelandart.org/2007.2.6/2007.2.6_web.jpg",
+   "link": "https://clevelandart.org/art/2007.2.6",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "This fragment, one of several in the collection, is a rare survivor of catastrophic rains that destroyed much of the Moche textile legacy and may have helped to bring about the decline of Moche culture. It depicts a serpent and a snail beneath a hovering raptorial bird—perhaps a snail kite, a type of hawk named after its favored food. The size of the motifs implies that the original textile was large; a mantle (a shawl-like garment) or a hanging are among the possibilities."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Tesla &quot;winding down&quot; production of Cybertruck",
+   "extract": "According to a recent tweet by Tesla founder Elon Musk, the company will be decreasing its production of the Cybertruck electric vehicle at its Texas Gigafactory two and a half years after the car's debut. The post Tesla &quot;winding down&quot; production of Cybertruck appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/06/tesla-cybertruck-production-discontinuation/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "peter morris brings miami art deco to london’s gothic streets with pink &#8216;cloud house’",
+   "extract": "peter morris' self-built cloud house combines miami pastels with elongated arches across two adjoining homes in north london. The post peter morris brings miami art deco to london’s gothic streets with pink &#8216;cloud house’ appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/peter-morris-miami-art-deco-london-gothic-pink-cloud-house-london/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Concrete House / Vierna9 + CIRAL Arquitectos",
+   "extract": "The location, program, and construction define the project for this residence, located in the northwestern part of Madrid , where the use of concrete becomes the defining feature of its architectural identity.",
+   "link": "https://www.archdaily.com/1188203/concrete-house-vierna9-plus-ciral-arquitectos",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Recolorier l'illustration",
+   "intro": "Changer toute une palette en une fois.",
+   "steps": [
+    "Sélectionne l'illustration",
+    "Sélection > Modifier les couleurs > Recolorier l'illustration",
+    "Déplace les points de la roue ou change de nuancier"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=textile"
+ ]
+}
