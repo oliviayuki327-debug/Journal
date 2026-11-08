@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-08",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Graphisme",
+   "title": "Sagot's Gallery",
+   "creator": "Georges Alfred Bottini",
+   "year": "1898",
+   "medium": "color separation proof in green",
+   "image": "https://openaccess-cdn.clevelandart.org/1998.42.8/1998.42.8_web.jpg",
+   "link": "https://clevelandart.org/art/1998.42.8",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The last decades of the 19th century were the golden era of French color lithography. Jules Cheret (1836-1932) popularized the technique to make colorful posters which, by 1884, were also exhibited as a legitimate art form. In 1891 Cheret began to design posters without lettering to frame and hang on walls---still an unusual idea since prints were usually stored in portfolios. The explosion in color lithography was also encouraged by the use of zinc plates, which were lighter, cheaper, and more pliable than traditional lithographic stones. Also important was the formation of artist's organizations like the Société des artistes lithographie (Society of Lithographic Artists) and the Société de l'estampe originale (Society of Original Prints), which stimulated original printmaking. By the 1890s a proliferation of fine printers, independent exhibitions, publications devoted to prints, critics, publishers, and dealers like Sagot, all supported color lithography."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "SABO Project &quot;softens divisions&quot; inside Manhattan apartment",
+   "extract": "New York and Paris design studio SABO Project has introduced rounded partitions and bold green accents to a compact apartment on Manhattan's Lower East Side. The post SABO Project &quot;softens divisions&quot; inside Manhattan apartment appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "sweeping concrete cutouts shape ZAO’s sculptural art center in rizhao",
+   "extract": "eye-shaped openings carve through the concrete structure to create an open-air cultural space beside a wooded hillside and lake. The post sweeping concrete cutouts shape ZAO’s sculptural art center in rizhao appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/sweeping-concrete-zao-art-center-rizhao-china/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "U House / NAQI & Partners",
+   "extract": "In many rural areas of northern Vietnam, large plots once occupied by extended families and lineages are gradually being subdivided among younger generations to build separate homes. As the lifestyles of younger generations evolve alongside urbanization, patterns of settlement are changing: plots are becoming smaller, multi-storey houses are replacing low-rise garden houses, while family life is becoming…",
+   "link": "https://www.archdaily.com/1187503/u-house-naqi-and-partners",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Vectoriser un croquis",
+   "intro": "Transformer un dessin scanné en tracé modifiable.",
+   "steps": [
+    "Place l'image puis ouvre Fenêtre > Vectorisation de l'image",
+    "Choisis un préréglage (Croquis ou Noir et blanc)",
+    "Clique sur Développer pour obtenir des tracés"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=poster"
+ ]
+}
