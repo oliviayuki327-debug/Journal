@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-09",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Métal",
+   "title": "Footed Platter with Design of Mythical Beasts amid Grapevines",
+   "creator": "",
+   "year": "700s",
+   "medium": "silver with gilt, incised, and chased decoration",
+   "image": "https://openaccess-cdn.clevelandart.org/1972.39/1972.39_web.jpg",
+   "link": "https://clevelandart.org/art/1972.39",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Precious Sassanian and Central Asian metalwork had been imported to China as early as the 4th and 5th centuries as a result of wars and prosperous trade along the Silk Road. With the influx of foreign metalworkers to cosmopolitan Tang China, the techniques of sheet metalworking were introduced to the Chinese. This silver vessel demonstrates the effects of such east-west exchanges along the Silk Road. Its decoration with intricate gilt, incised and chased designs against a ring-punched ground is of a particularly high standard."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "HP DesignJet T250 printer places professional printing in users’ hands",
+   "extract": "From printing menus to educational posters, technology company HP’s DesignJet T250 printer gives businesses the ability to design and print high-quality materials in house. Described by the brand as the “world’s smallest plotters”, with HP DesignJet T250 users can customise thousands of professionally created templates and print content on-site when required. The printer can be […] The post HP DesignJet T250 printer…",
+   "link": "https://www.dezeen.com/2026/11/09/hp-designjet-t250-printer-places-professional-printing-users-hands/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "how human history is remembered in coins, silks, and steles at fondazione prada’s global antiquity",
+   "extract": "ancient trade routes connected distant civilizations through objects, rituals, and visual languages, challenging ideas of cultural boundaries. The post how human history is remembered in coins, silks, and steles at fondazione prada’s global antiquity appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/how-human-history-is-remembered-in-coins-silks-and-steles-at-fondazione-pradas-global-antiquity/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "NH Residence Renovation / Dhanie & Sal",
+   "extract": "Terracotta-clad volumes highlight the original character of a renovated row house located in East Jakarta, within a faculty housing neighborhood, while blending seamlessly with the adjoining roof.",
+   "link": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Outil Largeur",
+   "intro": "Faire varier l'épaisseur d'un trait, comme à la plume.",
+   "steps": [
+    "Trace un contour",
+    "Choisis l'outil Largeur",
+    "Tire sur le tracé pour élargir ou affiner à l'endroit voulu"
+   ],
+   "shortcut": "Maj + W",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=metalwork"
+ ]
+}
