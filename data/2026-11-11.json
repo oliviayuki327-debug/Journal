@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-11",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Objets · Bijou",
+   "title": "Pendant: Crocodile",
+   "creator": "",
+   "year": "1930 or earlier",
+   "medium": "Gold",
+   "image": "https://openaccess-cdn.clevelandart.org/1952.265/1952.265_web.jpg",
+   "link": "https://clevelandart.org/art/1952.265",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "This pendant was cast in gold using the lost-wax method. Gold objects are the only Baule art forms associated with ancestor spirits. Pendants can have many uses. Usually hidden in pots or suitcases, gold adornments can be displayed on important occasions such as funerals. They can be laid out around the corpse before burial. A widow will wear them on a chain around her neck or attached to her hair at the ceremony signaling the end of mourning."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Tonkin Liu creates pair of glulam buildings for craftspeople restoring York Minster",
+   "extract": "London-based architecture studio Tonkin Liu has added two timber buildings on either side of York Minster, which contain facilities to aid the restoration of the Gothic cathedral. The post Tonkin Liu creates pair of glulam buildings for craftspeople restoring York Minster appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/11/york-minster-centre-excellence-tonkin-liu/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "&#8216;these organisms are 100% real’: timothy boomer captures nature’s alien architecture",
+   "extract": "tiny wasps transform oak trees into living nurseries, creating strange architectures shaped by multiple species. The post &#8216;these organisms are 100% real’: timothy boomer captures nature’s alien architecture appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/organisms-timothy-boomer-alien-architecture-plant-galls-macro-photography/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Building from Place: Inside the Work of RAMA Estudio",
+   "extract": "Carla Chávez, Carolina Rodas, and Felipe Donoso began collaborating while studying architecture in Quito, Ecuador , and went on to found RAMA Estudio , one of the winners of the ArchDaily Next Practices Awards 2026 . For more than a decade, their practice has moved between housing, public spaces, adaptive reuse, and community initiatives. Their work is guided by an understanding of architecture as a service. For…",
+   "link": "https://www.archdaily.com/1188244/building-from-place-inside-the-work-of-rama-estudio",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Sélectionner le sujet en un clic",
+   "intro": "Détourer une façade, un objet ou une personne sans outil manuel.",
+   "steps": [
+    "Menu Sélection > Sujet",
+    "Affine avec Sélectionner et masquer si les bords sont durs",
+    "Ajoute un masque de calque plutôt que de supprimer le fond"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=jewelry"
+ ]
+}
