@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-12",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Bois",
+   "title": "Wardrobe (Kast)",
+   "creator": "",
+   "year": "c. 1625–50",
+   "medium": "oak with ebony and rosewood veneers",
+   "image": "https://openaccess-cdn.clevelandart.org/1982.57/1982.57_web.jpg",
+   "link": "https://clevelandart.org/art/1982.57",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "After the founding of the Dutch East India Company in 1602, the use of exotic, imported wood veneers in furniture became more prevalent. So too did the use of perspective and mathematical systems in laying out the veneers. The combination produced a style of decoration that spread across Europe and even to the young colonies in America."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "EMBT shelters Naples metro station beneath &quot;natural and welcoming&quot; vaulted timber roof",
+   "extract": "Spanish architecture studio EMBT has completed the Naples Underground Central Station in Italy, contrasting its modernist surroundings with a wavy timber roof. The post EMBT shelters Naples metro station beneath &quot;natural and welcoming&quot; vaulted timber roof appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "what’s a primate to quantum mechanics? in conversation with daniel birnbaum and jacqui davies",
+   "extract": "at OGR torino, the quantum effect consider how quantum theory travels through cinema, popular culture and contemporary art, from kubrick to schrödinger’s cat. The post what’s a primate to quantum mechanics? in conversation with daniel birnbaum and jacqui davies appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/primate-quantum-mechanics-conversation-daniel-birnbaum-jacqui-davies/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Sharjah City Guide: 18 Contemporary and Historical Attractions to Discover in UAE's Cultural Hub",
+   "extract": "Sharjah , the captivating territory in the United Arab Emirates , is a cultural hub that blends tradition with contemporary modernity. Situated on the Arabian coastline, the city is known for its commitment to preserving its rich history, promoting the arts and culture, and providing a platform for creative and intellectual pursuits. In fact, the 2023 Sharjah Architecture Triennial (SAT) will take place from…",
+   "link": "https://www.archdaily.com/1006010/sharjah-city-guide-18-contemporary-and-historical-attractions-to-discover-in-uaes-cultural-hub",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Objet dynamique = retouche réversible",
+   "intro": "Les filtres et redimensionnements restent modifiables.",
+   "steps": [
+    "Clic droit sur le calque > Convertir en objet dynamique",
+    "Applique tes filtres : ils deviennent des filtres dynamiques",
+    "Double-clique sur l'objet pour rouvrir l'original"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=woodwork"
+ ]
+}
