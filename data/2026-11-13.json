@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-13",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture",
+   "title": "Frieze with Dancer and Musicians",
+   "creator": "",
+   "year": "c. 973",
+   "medium": "sandstone",
+   "image": "https://openaccess-cdn.clevelandart.org/1969.34/1969.34_web.jpg",
+   "link": "https://clevelandart.org/art/1969.34",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "A dancer, who strikes a pose in the center, is accompanied by a full orchestra of musicians in lively variegated poses. At the far left, a woman plays the cymbals, her mouth open in song. Twisting turning postures of figures wrought in high relief with little background space behind them are characteristics of Indian sculpture from the medieval period. Music and dance were important components of devotional temple activities; they were considered as pleasing to the divinity and attractive for devotees as the works of sculpture and architecture."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Perforated brick walls envelop giant market in Kinshasa by Think Tank Architecture",
+   "extract": "French studio Think Tank Architecture has created a market in the capital of the Democratic Republic of Congo, with space for 20,000 vendors across its geometric brick-and-concrete structure. The post Perforated brick walls envelop giant market in Kinshasa by Think Tank Architecture appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/13/zando-central-market-think-tank-architecture/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "OPPO find X10 flagship smartphones capture beauty with 200mp hasselblad cameras",
+   "extract": "from open gate video to AI editing, OPPO’s new smartphones expand the toolkit for photographers and filmmakers. The post OPPO find X10 flagship smartphones capture beauty with 200mp hasselblad cameras appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/technology/oppo-hasselblad-cameras-find-x10-flagship-smartphones/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Argyle House: The Story Behind Edinburgh’s Brutalist Landmark",
+   "extract": "Rising from the rocks that form the base of Castle Rock in Edinburgh , Argyle House stands in stark contrast to the city's most iconic landmark. Built in the late 1960s, this angular, grey building is a quintessential example of post-war Brutalist architecture. A geometric concrete structure stripped of ornamentation that has recently become an unlikely star on screen, serving as the backdrop for the series Dept. Q,…",
+   "link": "https://www.archdaily.com/1187810/argyle-house-the-story-behind-edinburghs-brutalist-landmark",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Estampiller tous les calques visibles",
+   "intro": "Crée un calque fusionné sans toucher à tes calques d'origine.",
+   "steps": [
+    "Place-toi tout en haut de la pile",
+    "Utilise le raccourci pour obtenir une copie aplatie",
+    "Retouche ce calque ou applique un filtre dessus"
+   ],
+   "shortcut": "Ctrl/Cmd + Alt/Opt + Maj + E",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=architecture"
+ ]
+}
