@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-15",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Céramique",
+   "title": "Italo-Geometric Bird Askos (Oil Vessel): Hunter (Herakles?) and Stag",
+   "creator": "Bisenzio Class",
+   "year": "c. 700 BCE",
+   "medium": "ceramic",
+   "image": "https://openaccess-cdn.clevelandart.org/1993.1/1993.1_web.jpg",
+   "link": "https://clevelandart.org/art/1993.1",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "This bird-shaped askos (oil vessel), with a tall filling spout and a pierced beak for pouring, perhaps held perfumed oil for a funerary function. Although the shape likely stems from Italian tradition, the abundantly painted geometric decoration, covering nearly every available surface, derives originally from Greece. Thus scholars have suggested that an immigrant Greek potter working in Etruria may have made the vessel. The sole narrative scene shows a man with a spear leading an antlered animal. If not an anonymous hunter, this could be the earliest known representation of the hero Herakles performing his third labor: capturing the golden-antlered Keryneian hind, or female deer."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Reims 502 uses pink palette for &quot;non-referential&quot; commercial building in Mexico",
+   "extract": "A stepped facade fronts this pink commercial building in Mexico called Rosadoce, designed by local studio Reims 502 to suit various tenants over its lifespan. The post Reims 502 uses pink palette for &quot;non-referential&quot; commercial building in Mexico appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/15/reims-502-rosadoce/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "gio tirotto stretches domestic chair into public bench on italy’s gulf of poets",
+   "extract": "la lenta is a stainless steel and teak-veneered bench that merges domestic chair proportions with civic seating for installation along liguria’s san terenzo waterfront. The post gio tirotto stretches domestic chair into public bench on italy’s gulf of poets appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/gio-tirotto-domestic-chair-public-bench-italy-gulf-poets-vita-lenta/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "OkiDoki Matcha Bar / Dobrochna Rajcic",
+   "extract": "Third Place. Set inside Wrocław's historic 1904 Feniks building (formerly the Barasch Brothers' Department Store) at 75 Szewska Street, Oki Doki is a minimalist matcha bar. The design weaves exposed architectural heritage with a bold Yves Klein blue mural, creating a contemporary urban sanctuary focused on \"togetherness in solitude.\" The site previously housed a fabric store, and this historical continuity of…",
+   "link": "https://www.archdaily.com/1188229/okidoki-matcha-bar",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Remplir selon le contenu",
+   "intro": "Supprimer un élément gênant sur une photo de site.",
+   "steps": [
+    "Sélectionne l'élément au lasso",
+    "Ouvre la boîte Remplir et choisis « Contenu pris en compte »",
+    "Valide, puis retouche les raccords au tampon si besoin"
+   ],
+   "shortcut": "Maj + F5",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=ceramic"
+ ]
+}
