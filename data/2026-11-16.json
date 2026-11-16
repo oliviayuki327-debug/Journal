@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-16",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Verre",
+   "title": "Pair of Stained Glass Panels with Male and Female Donor",
+   "creator": "",
+   "year": "c. 1480",
+   "medium": "pot metal, white glass with silver stain",
+   "image": "https://openaccess-cdn.clevelandart.org/1919.1/1919.1_web.jpg",
+   "link": "https://clevelandart.org/art/1919.1",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The origin of these stained glass panels is unknown. They depict a male and female donor, presumably husband and wife, who gaze upon a now-lost central panel. The object of their devotions was likely a crucified Christ or a standing figure of the Virgin Mary. The man, dressed in armor, and the woman, wearing a bejeweled and richly embroidered gown, are accompanied by their not yet identified coats-of-arms. They are undoubtedly members of an aristocratic elite who commissioned these windows, perhaps for a family chapel."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Shisuo Design Office creates &quot;surreal&quot; rural house in China using salvaged steel",
+   "extract": "Jiang Deng Lu is a house in rural Anhui designed by Chinese studio Shisuo Design Office using stainless steel offcuts salvaged from the client's own factory. The post Shisuo Design Office creates &quot;surreal&quot; rural house in China using salvaged steel appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/16/shisuo-design-office-jiang-deng-lu/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "neri oxman’s material ecology imagines a future where buildings grow like living organisms",
+   "extract": "through two decades of research at the intersection of biology, computation, and fabrication, the designer proposes a new relationship between human invention and the intelligence of nature. The post neri oxman’s material ecology imagines a future where buildings grow like living organisms appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/neri-oxman-material-ecology-future-buildings-living-organisms-book/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Strømsbu Sawmill / Henning Larsen",
+   "extract": "Henning Larsen and Ramboll have completed the transformation of the historic Strømsbu Sawmill in Arendal, Norway, into a new workplace for marine insurer Gard. Continuing the site's connection to maritime trade, the project brings together restored industrial buildings, spaces for collaboration, and a landscape designed to support local biodiversity.",
+   "link": "https://www.archdaily.com/1188565/stromsbu-sawmill-henning-larsen",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Camera Raw comme filtre dynamique",
+   "intro": "Corriger lumière et couleurs d'une photo de façon réversible.",
+   "steps": [
+    "Convertis le calque en objet dynamique",
+    "Filtre > Filtre Camera Raw",
+    "Règle exposition, hautes lumières, ombres ; valide"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=glass"
+ ]
+}
