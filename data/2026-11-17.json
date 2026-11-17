@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-17",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Textile",
+   "title": "Mandaya ikat textile (dagmay)",
+   "creator": "",
+   "year": "c. early 1900s",
+   "medium": "plain weave hemp, dyed",
+   "image": "https://openaccess-cdn.clevelandart.org/1917.748/1917.748_web.jpg",
+   "link": "https://clevelandart.org/art/1917.748",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "This textile is a Mandaya abacá ikat cloth woven in southeastern Mindanao. It is made from hand-stripped abacá fibers that are resist-dyed using the Mandaya ikat technique, in which selected warp threads are tightly bound before dyeing to produced patterned sections during weaving. The designs embody Mandaya cosmology and are traditionally associated with protection, fertility, and the presence of umagad (ancestral spirits)."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Dezeen launches 20x20 project to identify the architects and designers to watch over the next 20 years",
+   "extract": "Today is Dezeen's 20th birthday, and to celebrate we've asked 20 architects and designers who have had a major impact over the past 20 years to each select an architect or designer that they believe will have the biggest impact over the next 20 years. The post Dezeen launches 20x20 project to identify the architects and designers to watch over the next 20 years appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "ukrainian artists reimagine historic tree of life mosaic with 5,000 reclaimed fragments",
+   "extract": "at COP31 in antalya, an interactive installation invites visitors to assemble a colorful artwork celebrating cultural memory, creativity and collective renewal. The post ukrainian artists reimagine historic tree of life mosaic with 5,000 reclaimed fragments appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/ukrainian-artists-tree-of-life-mosaic-cop31/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Modern and Mexican: Mario Pani’s CUPA Housing Complex in Mexico City",
+   "extract": "In 1947, Mexico's General Directorate of Civil Pensions commissioned young architect Mario Pani to design 200 houses for government employees on a recently acquired plot of land in Colonia del Valle, then a distant neighborhood on the outskirts of Mexico City . Rather than following the original guidelines, Pani proposed a 13-story housing complex with extensive green areas, communal spaces, and more than a thousand…",
+   "link": "https://www.archdaily.com/1188165/modern-and-mexican-mario-panis-cupa-housing-complex-in-mexico-city",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Se déplacer sans changer d'outil",
+   "intro": "Naviguer dans un grand document sans perdre l'outil actif.",
+   "steps": [
+    "Maintiens Espace et glisse pour déplacer la vue",
+    "Ctrl/Cmd + Espace pour zoomer",
+    "Relâche : tu retrouves ton outil"
+   ],
+   "shortcut": "Espace",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=textile"
+ ]
+}
