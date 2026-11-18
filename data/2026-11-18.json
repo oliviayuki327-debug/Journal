@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-18",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Graphisme",
+   "title": "Street Advertising",
+   "creator": "John Thomson",
+   "year": "1876–77",
+   "medium": "woodburytype",
+   "image": "https://openaccess-cdn.clevelandart.org/2022.78/2022.78_web.jpg",
+   "link": "https://clevelandart.org/art/2022.78",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The poster being pasted up by the two men in the late 1870s is an ad for Mme. Tussaud’s London, a museum of wax figures that is still in business today. The image was part of John Thomson’s publication Street Life in London , a group of essays and photographsthat was one of the first published compilations of social documentary photographs. It holds a place of honor in the histories of photography, the book, ethnology, and sociology."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Cotswolds barn renovation by ConForm creates a &quot;dialogue between old and new&quot;",
+   "extract": "London studio ConForm Architects has transformed a former cattle barn into a new space for a working farm in the Cotswolds. The post Cotswolds barn renovation by ConForm creates a &quot;dialogue between old and new&quot; appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/18/open-byre-conform/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "&#8216;the material itself has agency’: aléa work grows chairs underground with fungi",
+   "extract": "speaking with designboom, aléa work talks growing furniture in soil, transforming textiles with fungi, and designing with living organisms. The post &#8216;the material itself has agency’: aléa work grows chairs underground with fungi appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/material-agency-alea-work-grows-chairs-underground-fungi-textiles-mycelium-interview/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Mapping Memory: Reconstructing Architecture Beyond Physical Evidence",
+   "extract": "How do you remember the dimensions of a room you could barely see? Perhaps through the distance between footsteps, the sound of a door closing, or the way an echo travels down a corridor . For someone who has been denied the ability to see or move freely through a space, these fragments may be the only record of its architecture.",
+   "link": "https://www.archdaily.com/1188661/mapping-memory-reconstructing-architecture-beyond-physical-evidence",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Calque de réglage + masque",
+   "intro": "Changer les couleurs sans abîmer l'image.",
+   "steps": [
+    "Calque > Nouveau calque de réglage (Courbes, Teinte/Saturation…)",
+    "Peins en noir sur le masque pour retirer l'effet localement",
+    "Baisse l'opacité pour doser"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=poster"
+ ]
+}
