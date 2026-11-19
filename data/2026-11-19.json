@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-19",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Métal",
+   "title": "The Wade Cup with Animated Script",
+   "creator": "",
+   "year": "1200–1221",
+   "medium": "brass inlaid with silver",
+   "image": "https://openaccess-cdn.clevelandart.org/1944.485/1944.485_web.jpg",
+   "link": "https://clevelandart.org/art/1944.485",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The highlight of the cup’s decoration is the inscription around the rim, which you see on the walls around you, with letters composed of human figures, animals, and birds. This is known as animated script and it developed in northeast Iran or Afghanistan during the mid-1100s and migrated westward. The inscription on the rim of the Wade Cup is the pinnacle of this form of script with its full-figure animation. The body of the cup is covered with interlacing bands of compartments containing tiny figures of humans and animals. These represent the 12 signs of the zodiac from astrology, the practice of interpreting the influence of planets and stars on earthly affairs. Astrology began in Mesopotamia, was adopted by the Greeks, and then absorbed into medieval Islamic culture through translations of Greek texts."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Fictional Project designs home in Kerala to feel &quot;one with the landscape&quot;",
+   "extract": "Curving ceilings sweep down to frame the two small gardens that flank this home in Kerala, India, designed by local studio Fictional Project. The post Fictional Project designs home in Kerala to feel &quot;one with the landscape&quot; appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/19/fictional-project-interstitial-living/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "NIKE rethinks air cushioning with digitally printed patterns inside its soles",
+   "extract": "instead of relying on conventional internal supports, the sportswear company uses selective lamination to control underfoot response, with the first running models expected in late 2027. The post NIKE rethinks air cushioning with digitally printed patterns inside its soles appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/technology/nike-tuned-air-digital-ink-sneaker-cushioning/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Architecture as a Social Practice: Lessons from Ammodo Architecture Days",
+   "extract": "What connects a cooperative housing development in Barcelona, a cultural institution hosted in an unfinished concrete structure in Accra , and a floating festival platform in the Peruvian Amazon ? Despite their unique geographic and social contexts, these projects encourage an understanding of architecture that extends beyond the construction of buildings . Through collective housing, adaptive reuse, participatory…",
+   "link": "https://www.archdaily.com/1188740/architecture-as-a-social-practice-lessons-from-ammodo-architecture-days",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Convertir le texte en contours",
+   "intro": "Évite les polices manquantes à l'envoi d'un fichier.",
+   "steps": [
+    "Sélectionne le texte",
+    "Texte > Vectoriser le texte (créer les contours)",
+    "Garde une copie éditable avant de le faire"
+   ],
+   "shortcut": "Maj + Ctrl/Cmd + O",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=metalwork"
+ ]
+}
