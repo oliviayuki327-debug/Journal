@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-20",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture · Dessin",
+   "title": "A Draped Female Figure (possibly an Amazon) and Architectural Studies (verso)",
+   "creator": "Correggio",
+   "year": "c. 1525",
+   "medium": "red chalk",
+   "image": "https://openaccess-cdn.clevelandart.org/2001.97.b/2001.97.b_web.jpg",
+   "link": "https://clevelandart.org/art/2001.97.b",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "In this chalk study of a lone, fallen soldier, the brown ink inscription at the bottom of the sheet indicates that at one time it was believed to be by Raphael. However, it is now attributed to Correggio based on the sensuous drawing style that focuses attention on some details, like the soldier’s leg and foot, while other contours are barely sketched and shaded. The back, or verso, of the sheet presents quick sketches of classical-style architecture and a woman with a quiver of arrows on her back; she may be an Amazon, one of a race of warrior women skilled in archery, or Diana, goddess of the hunt.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Correggio",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "CAN combines eclectic references for eccentric revamp of London house",
+   "extract": "Towers of concrete drainage tubes and colourful exposed steel elements are among the eclectic features of House-Tropicália, a “very personal” London residence recently extended by local architecture studio CAN. The post CAN combines eclectic references for eccentric revamp of London house appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/20/can-house-tropicalia/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "united artists for climate calls for art and culture to take stronger role in climate action at COP31",
+   "extract": "launched by art of change 21, the international movement brings together contemporary artists to advocate for more ambitious climate commitments, cultural representation in policymaking, and a socially just transition. The post united artists for climate calls for art and culture to take stronger role in climate action at COP31 appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/united-artists-climate-art-culture-stronger-role-climate-action-cop31-artofchange21/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Room for Body and Soul: 7 Unbuilt Healthcare Facilities from the ArchDaily Community",
+   "extract": "Few programs carry as many meanings as healthcare. Depending on the context, health can refer to the treatment of disease, the prevention of illness, physical rehabilitation, or a broader condition of physical, mental, and social well-being. The following projects, shared by ArchDaily readers, offer a specific response to each of these understandings, from hospitals organized around diagnostic and surgical…",
+   "link": "https://www.archdaily.com/1188873/room-for-body-and-soul-7-unbuilt-healthcare-facilities-from-the-archdaily-community",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Concepteur de formes",
+   "intro": "Fusionner ou soustraire des formes à la main, sans Pathfinder.",
+   "steps": [
+    "Sélectionne plusieurs formes",
+    "Active l'outil Concepteur de formes",
+    "Glisse pour fusionner ; Alt/Opt + clic sur une zone pour la soustraire"
+   ],
+   "shortcut": "Maj + M",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=drawing%20architecture"
+ ]
+}
