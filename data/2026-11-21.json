@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-21",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Objets · Bijou",
+   "title": "Earring with Four-Armed Vishnu Riding Garuda with Nagas (serpent divinities)",
+   "creator": "",
+   "year": "1600s or 1700s",
+   "medium": "repousse gold with pearls",
+   "image": "https://openaccess-cdn.clevelandart.org/1915.346.2/1915.346.2_web.jpg",
+   "link": "https://clevelandart.org/art/1915.346.2",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "In Nepal, sculptures of deities were adorned with jewelry larger than pieces made for human beings. This pair of earrings features the Hindu god Vishnu seated cross-legged riding his mount the man-eagle Garuda. Garuda's arms are outstretched, grabbing the tails of serpents whose braided bodies snake up both sides of each earring. His wings drape like a cape behind him, and his talons clutch his crescent moon perch. Serpent hoods rise up behind Vishnu like a canopy."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "ZHA completes “secular” Théâtre Royal de Rabat in Morocco",
+   "extract": "UK studio ZHA took visual cues from the riverbank site of this national theatre in Morocco when designing its sweeping exterior form, which contains a trio of performance spaces. The post ZHA completes “secular” Théâtre Royal de Rabat in Morocco appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/21/zha-theatre-royal-de-rabat-morroco/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "&#8216;we protect what we have learned to notice’: jon mccormack’s photographic exploration",
+   "extract": "the artist explores nature's hidden geometries, from glacial rivers to microscopic organisms, through photography and conservation. The post &#8216;we protect what we have learned to notice’: jon mccormack’s photographic exploration appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/protect-learned-notice-jon-mccormacks-photography-patterns-natural-world-interview/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "FLEISCHEREI, A RESTAURANT REWORKED / Allen Kaufmann Architekten",
+   "extract": "Fleischerei carries the traces of a 1911 building, a former butcher shop and the restaurant that opened there in 2009, while being reworked for a new life in 2025 and 2026.",
+   "link": "https://www.archdaily.com/1188648/fleischerei-a-restaurant-reworked-allen-kaufmann-architekten",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Plusieurs plans de travail et export",
+   "intro": "Un seul fichier pour plusieurs planches de projet.",
+   "steps": [
+    "Outil Plan de travail pour en ajouter",
+    "Fichier > Exporter > Exporter pour les écrans",
+    "Coche « Utiliser les plans de travail » pour exporter chacun"
+   ],
+   "shortcut": "Maj + O",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=jewelry"
+ ]
+}
