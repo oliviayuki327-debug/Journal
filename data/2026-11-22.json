@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-22",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Bois",
+   "title": "Cabinet",
+   "creator": "Carlo Bugatti",
+   "year": "c. 1895",
+   "medium": "wood with metal inlays and painted parchment, glass doors and mirror",
+   "image": "https://openaccess-cdn.clevelandart.org/1984.177/1984.177_web.jpg",
+   "link": "https://clevelandart.org/art/1984.177",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "In both form and decoration this cabinet typifies the work of Carlo Bugatti. Asymmetrical, with a tower-like element at one side, there are Islamic-inspired ornaments throughout its design, notably the onion-shaped arches in the upper half of the cabinet. Japanese influence is also evident in the white metal inlays and in the sepia-painted parchment panels. The cabinet displays an extensive vocabulary of other decorative devices, including the partial ebonized frame, the turned wooden ornaments, metal reliefs, mirrored and green glass, and silk tassels. Despite their diversity, Bugatti organized all these elements into a coherent design.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Carlo_Bugatti",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Domes depict constellations of missiles in the night sky at Sharjah Architecture Triennial",
+   "extract": "Architect Mohamad Nahleh and architecture professor Ozayr Saloojee created three domed structures at this year's Sharjah Architecture Triennial, which reimagine constellations by mapping military objects in the night sky. The post Domes depict constellations of missiles in the night sky at Sharjah Architecture Triennial appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/22/after-night-there-is-nothing-sharjah-architecture-triennial/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "detour 2026 proves &#8216;better, not perfect’ is all it takes across 14 installations and a pop-up shop",
+   "extract": "exploring design through testing and revision, detour 2026 transforms PMQ with 14 experimental installations, a new pop-up shop, and matty benedetto’s asia debut. The post detour 2026 proves &#8216;better, not perfect’ is all it takes across 14 installations and a pop-up shop appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/detour-2026-asia/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "ATO RAMEN / CUDO:",
+   "extract": "The starting point for ATO Ramen in Warsaw was the idea of making the ramen-making process an essential part of the guest experience. Rather than hiding food preparation behind closed doors, we designed an open kitchen and a glazed noodle production area as the heart of the restaurant.",
+   "link": "https://www.archdaily.com/1187743/ato-ramen-cudo",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Aligner sur un objet clé",
+   "intro": "Aligner des éléments sur une référence précise.",
+   "steps": [
+    "Sélectionne tous les objets",
+    "Clique une fois sur celui qui doit rester fixe (contour épais)",
+    "Utilise le panneau Alignement"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=woodwork"
+ ]
+}
