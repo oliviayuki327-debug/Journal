@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-23",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Architecture",
+   "title": "Hoyshaleshvara Temple Sculpture, Halebidu (Halebeedu)",
+   "creator": "Richard Banner Oakeley",
+   "year": "1856–57",
+   "medium": "albumenized salt print from waxed paper negative",
+   "image": "https://openaccess-cdn.clevelandart.org/2001.152/2001.152_web.jpg",
+   "link": "https://clevelandart.org/art/2001.152",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "On the recommendation of a friend, Oakeley marched 20 days along treacherous country roads to locate the Hoyshaleshvara Temple in southwestern India. Finding it more beautiful than any other building he had seen in southern India, he framed his subject to capture a sense of the lavish number of vivid sculptures that enliven the temple's walls. At the right is the Hindu god Shiva with his wife, the goddess Parvati, seated on his mount, the bull Nandi. At the left, Shiva and Parvati are seated on Mount Kailasha, which a multiarmed demon is attempting to dislodge."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "HTA Design unveils &quot;UK&#039;s largest council housing development&quot;",
+   "extract": "A collection of brick-clad buildings containing over 450 homes forms Kidbrooke Park Road in London, which architecture studio HTA Design claims is the largest council housing development in the UK. The post HTA Design unveils &quot;UK&#039;s largest council housing development&quot; appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/23/kidbrooke-park-road-hta-design/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "gerhard richter’s pavilion opens in doha, wrapped in patterns inspired by islamic geometry",
+   "extract": "six patterned walls, mirrored interiors, and a sculptural tower bring the german artist’s decades-long investigation of abstraction into a spatial experience, drawing connections with the geometric traditions of islamic art. The post gerhard richter’s pavilion opens in doha, wrapped in patterns inspired by islamic geometry appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/architecture/gerhard-richter-pavilion-doha-patterns-islamic-geometry-selldorf-architects/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Architecture as Evidence: Reading the Built Environment Through Forensic Investigation",
+   "extract": "Architecture is commonly examined through its visible form, materials and spatial organisation. The physical fabric of a building can also retain evidence of events and alterations that are not apparent from its present appearance. Cracks, repairs and structural changes may indicate when and how a building was modified, while photographs and material fragments can provide further evidence about the circumstances…",
+   "link": "https://www.archdaily.com/1188678/architecture-as-evidence-reading-the-built-environment-through-forensic-investigation",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Recolorier l'illustration",
+   "intro": "Changer toute une palette en une fois.",
+   "steps": [
+    "Sélectionne l'illustration",
+    "Sélection > Modifier les couleurs > Recolorier l'illustration",
+    "Déplace les points de la roue ou change de nuancier"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=architecture"
+ ]
+}
