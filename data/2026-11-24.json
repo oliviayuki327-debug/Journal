@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-24",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Design · Mobilier",
+   "title": "Marble Top for Cabinet",
+   "creator": "André-Charles Boulle",
+   "year": "c. 1690",
+   "medium": "ebony, marquetry in metal and tortoiseshell",
+   "image": "https://openaccess-cdn.clevelandart.org/1949.539.b/1949.539.b_web.jpg",
+   "link": "https://clevelandart.org/art/1949.539.b",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Appointed cabinetmaker to King Louis XIV in 1672, André-Charles Boulle became a master of furniture making in France during the late 1600s until his death in 1732. Known primarily for his use of marquetry, in which metal patterns are inlaid into tortoiseshell then applied within the veneered surface of the furniture, Boulle established a level of quality and craftsmanship few others could achieve. As a result, his work found favor at the royal court and among other aristocrats and diplomats eager to impress the king. The inclusion of a medallion depicting Louis XIV within the bronze decoration of this chest would have identified the owner with the royal court. Often exhibiting stout architectural proportions with elegant groups of inlaid motifs such as the parrot on the central panel of this chest, Boulle’s designs are an example of the intellectual fashion for contrasting ideas, materials, and motifs.",
+   "extractLink": "https://fr.wikipedia.org/wiki/Andr%C3%A9-Charles_Boulle",
+   "extractSrc": "Wikipédia (fr)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "&quot;Intensely physical patterns&quot; cloak Gerhard Richter&#039;s self-designed gallery in Doha",
+   "extract": "Kaleidoscopic patterns adorn the exterior of this blocky pavilion in Doha, Qatar, designed by artist Gerhard Richter with US studio Selldorf Architects as an art gallery. The post &quot;Intensely physical patterns&quot; cloak Gerhard Richter&#039;s self-designed gallery in Doha appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/24/gerhard-richters-doha-pavilion-selldorf-architects/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "learning to move is how we first construct ourselves, and then everything around us",
+   "extract": "a station worth staying in, a car no longer shaped by its engine, a home that needs no ground beneath it, a night train where arriving late is the point. states of motion asks who gets to move, at what pace, and how design can transform the journey itself. The post learning to move is how we first construct ourselves, and then everything around us appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/editorials/learning-move-construct-ourselves-everything-around-us-states-of-motion/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Does Your Building Work or Does It Just Photograph Well? What Neuroscience and Use Data Could Teach Architects",
+   "extract": "Architecture reaches people through whatever medium carries it, and each new medium changes our picture of what a good building looks like. For example, when 3D modeling software arrived, the novelty of complex shapes drove the starchitecture era of the 2010s, and projects built on those experiments earned awards such as the Pritzker Prize . Today the medium is the social media feed . A building exists first as a…",
+   "link": "https://www.archdaily.com/1188821/does-your-building-work-or-does-it-just-photograph-well-what-neuroscience-and-use-data-could-teach-architects",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Vectoriser un croquis",
+   "intro": "Transformer un dessin scanné en tracé modifiable.",
+   "steps": [
+    "Place l'image puis ouvre Fenêtre > Vectorisation de l'image",
+    "Choisis un préréglage (Croquis ou Noir et blanc)",
+    "Clique sur Développer pour obtenir des tracés"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=furniture"
+ ]
+}
