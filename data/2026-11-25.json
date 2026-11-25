@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-25",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Céramique",
+   "title": "Black-Figure Hydria (Water Vessel): Frontal Quadriga (Body); Theseus and Minotaur (Shoulder)",
+   "creator": "Antimenes Painter",
+   "year": "c. 520 BCE",
+   "medium": "ceramic",
+   "image": "https://openaccess-cdn.clevelandart.org/1975.1/1975.1_web.jpg",
+   "link": "https://clevelandart.org/art/1975.1",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "Although their subjects differ, the three fields of figured decoration on this vessel relate to one another metaphorically through the theme of victory. Just as Theseus defeats the Minotaur on the shoulder, two lions converge on a deer in the predella (the small, lowermost panel). In the largest panel, victory is still to come, presumably for all three warriors shown: one in the chariot behind his driver, and one on foot on either side. Somewhat unusually, two of the warriors look directly out at the viewer, their frontal faces an interesting complement to the much more common frontal chariot.",
+   "extractLink": "https://en.wikipedia.org/wiki/Antimenes_Painter",
+   "extractSrc": "Wikipédia (en)"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Wine bar informs rich colour palette for Yorkshire home renovation by Tuckey Design Studio",
+   "extract": "London architecture practice Tuckey Design Studio has renovated and extended Bay House in rural Yorkshire, using a rich, moody palette intended to evoke the feeling of a wine bar. The post Wine bar informs rich colour palette for Yorkshire home renovation by Tuckey Design Studio appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/25/bay-house-tuckey-design-studio/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "the search for a home without a fixed address, from prefabricated houses to floating dwellings",
+   "extract": "from postwar demountable houses to floating neighborhoods, architects have repeatedly questioned the assumption that buildings must remain tied to one site. the answers reveal different ideas about permanence, ownership, and the future of domestic space. The post the search for a home without a fixed address, from prefabricated houses to floating dwellings appeared first on designboom | architecture & design…",
+   "link": "https://www.designboom.com/architecture/search-home-fixed-address-prefabricated-houses-floating-dwellings/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Borrowed References, Local Languages: Blended Styles on Latin American Façades",
+   "extract": "Architectural styles are often identified through a familiar set of characteristics: particular forms, materials, proportions, and decorative elements. Yet these characteristics do not always remain tied to the traditions from which they originate. A classical column may appear on a self-built house , a modernist ceramic composition may be reproduced across a residential façade, or a chalet may become part of a…",
+   "link": "https://www.archdaily.com/1189051/borrowed-references-local-languages-blended-styles-on-latin-american-facades",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Outil Largeur",
+   "intro": "Faire varier l'épaisseur d'un trait, comme à la plume.",
+   "steps": [
+    "Trace un contour",
+    "Choisis l'outil Largeur",
+    "Tire sur le tracé pour élargir ou affiner à l'endroit voulu"
+   ],
+   "shortcut": "Maj + W",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=ceramic"
+ ]
+}
