@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-26",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Verre",
+   "title": "Box",
+   "creator": "Tiffany Glass & Decorating Company",
+   "year": "c. 1898–1902",
+   "medium": "Favrile glass, enamel on copper",
+   "image": "https://openaccess-cdn.clevelandart.org/2018.290.a/2018.290.a_web.jpg",
+   "link": "https://clevelandart.org/art/2018.290.a",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "By 1900 Tiffany had expanded his empire by increasing the firm’s production of “fancy goods,” including inkstands, candlesticks, clocks, small boxes, desk sets, tea screens, and other functional objects. Along with the array of artistic glass designs from his factory in Corona, Queens, works in ceramic, bronze, other metals, and even jewelry abounded. These smaller, more affordable luxury items were designed with as much thought to artistry as the great stained glass windows and lamps through which the firm enjoyed unrivaled success."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "&quot;Europe&#039;s largest museum development&quot; opens in 1930s Citroën garage in Brussels",
+   "extract": "Brussels' former Citroën Garage has been transformed into Kanal, a 40,000-square-metre museum for modern art and architecture. The post &quot;Europe&#039;s largest museum development&quot; opens in 1930s Citroën garage in Brussels appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/26/kanal-museum-brussels-renovation-atelier-kanal/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "nendo on bringing the river-inspired design of france’s TGV INOUI into motion",
+   "extract": "seven years of development turned an idea about the movement of water into a detailed design language, from the train’s exterior patterns to its passenger spaces and everyday fittings. The post nendo on bringing the river-inspired design of france’s TGV INOUI into motion appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/nendo-river-inspired-design-france-tgv-inoui-motion-interview/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Open Call: \"The Bath in the Lake\"",
+   "extract": "THE BATH IN THE LAKE competition is a Madeby initiative created to recognise architectural proposals that explore the relationship between landscape, water and architecture by taking the bathroom out of its usual setting and placing it in a natural environment. The call invites participants to reflect on the idea of bathing, the space that contains it and the way it is inhabited, treating the bathroom as an object…",
+   "link": "https://www.archdaily.com/1189281/open-call-the-bath-in-the-lake",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Illustrator",
+   "app": "Illustrator",
+   "title": "Repères commentés",
+   "intro": "Les repères intelligents affichent alignements et distances en direct.",
+   "steps": [
+    "Active-les avec le raccourci",
+    "Déplace un objet près d'un autre",
+    "Suis les indications pour caler précisément"
+   ],
+   "shortcut": "Ctrl/Cmd + U",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/illustrator/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=glass"
+ ]
+}
