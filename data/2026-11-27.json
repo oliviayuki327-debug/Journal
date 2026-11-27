@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-27",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Métiers d’art · Textile",
+   "title": "Fragment of a furnishing textile",
+   "creator": "",
+   "year": "1800s",
+   "medium": "Cotton, silk, dye",
+   "image": "https://openaccess-cdn.clevelandart.org/1933.422/1933.422_web.jpg",
+   "link": "https://clevelandart.org/art/1933.422",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": "The dense blue embroidery on this fragment is associated with the city of Fes, and was likely part of a larger textile used to decorate the interior of a Moroccan home. It might have been used as a cover for a pillow or low sofas lining the walls of a sitting room. Historically, some of these textiles were described as \"Aleuj\" (a pejorative term loosely translating to 'convert') and thought to be made by Circassian women from the Caucasus region in western Asia."
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Ambidestro clads coastal home in Brazil with rough local stone",
+   "extract": "Contrasting volumes of smooth plaster and rough local Morelo stone define this coastal home in Brazil, designed by local architecture practice Ambidestro. The post Ambidestro clads coastal home in Brazil with rough local stone appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/27/casa-los-cobos-ambidestro-brazil/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "a review of midcentury kinetic environments: when artists turned entire rooms into moving machines",
+   "extract": "in the 1960s, artists began using motors, elastic structures, and pneumatic systems to transform the spaces we inhabit. The post a review of midcentury kinetic environments: when artists turned entire rooms into moving machines appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/art/review-midcentury-kinetic-environments-artist-rooms-moving-machines/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Engineered Waterways: What Architecture Can Learn from Urban Canals",
+   "extract": "Unlike open coastlines or the edges of natural bodies of water, urban canals are narrow, linear, engineered landscapes that cut decisively through the urban fabric. Where rivers follow the contours of a landscape and shape the landform, canals impose their geometry and logic, redefining the relationship between architecture and water. Their edges are clearly defined, often shaped by r etaining walls, embankments,…",
+   "link": "https://www.archdaily.com/1189031/engineered-waterways-what-architecture-can-learn-from-urban-canals",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Sélectionner le sujet en un clic",
+   "intro": "Détourer une façade, un objet ou une personne sans outil manuel.",
+   "steps": [
+    "Menu Sélection > Sujet",
+    "Affine avec Sélectionner et masquer si les bords sont durs",
+    "Ajoute un masque de calque plutôt que de supprimer le fond"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=textile"
+ ]
+}
