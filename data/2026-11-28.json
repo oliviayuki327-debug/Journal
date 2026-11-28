@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-28",
+ "cards": [
+  {
+   "type": "oeuvre",
+   "kicker": "Graphisme",
+   "title": "Portrait of Hafiz Abd al-Rahim Khan, from the Fraser Album",
+   "creator": "",
+   "year": "c. 1815–20",
+   "medium": "Gum tempera and gold on paper",
+   "image": "https://openaccess-cdn.clevelandart.org/2007.220/2007.220_web.jpg",
+   "link": "https://clevelandart.org/art/2007.220",
+   "credit": "Cleveland Museum of Art (CC0)",
+   "extract": ""
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Dezeen",
+   "title": "Timber grid and external stair offer &quot;a wink&quot; to Centre Pompidou at its annexe in Massy",
+   "extract": "French architecture studio PCA-Stream has completed Centre Pompidou Francilien in Massy, a storage and exhibition space fronted by a gridded timber deck and external stair that echo the high-tech character of the iconic original Centre Pompidou in Paris. The post Timber grid and external stair offer &quot;a wink&quot; to Centre Pompidou at its annexe in Massy appeared first on Dezeen .",
+   "link": "https://www.dezeen.com/2026/11/28/centre-pompidou-francilien-pca-stream/",
+   "credit": "Dezeen"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · Designboom",
+   "title": "jean couvreur transforms iconic train emergency hammers into bookends, wall hooks, and candlesticks",
+   "extract": "to celebrate the 45th anniversary of the TGV, designer jean couvreur composes new objects using iconic parts salvaged from the train. The post jean couvreur transforms iconic train emergency hammers into bookends, wall hooks, and candlesticks appeared first on designboom | architecture & design magazine .",
+   "link": "https://www.designboom.com/design/jean-couvreur-iconic-tgv-train-emergency-hammers-bookends-wall-hooks-candlesticks/",
+   "credit": "Designboom"
+  },
+  {
+   "type": "actu",
+   "kicker": "Actualité · ArchDaily",
+   "title": "Nuuk Airport / ZESO Architects",
+   "extract": "Nuuk Airport is both architecturally and functionally a response to the beautiful yet harsh Arctic Climate.",
+   "link": "https://www.archdaily.com/1187745/nuuk-airport-zeso-architects",
+   "credit": "ArchDaily"
+  },
+  {
+   "type": "astuce",
+   "kicker": "Astuce Photoshop",
+   "app": "Photoshop",
+   "title": "Objet dynamique = retouche réversible",
+   "intro": "Les filtres et redimensionnements restent modifiables.",
+   "steps": [
+    "Clic droit sur le calque > Convertir en objet dynamique",
+    "Applique tes filtres : ils deviennent des filtres dynamiques",
+    "Double-clique sur l'objet pour rouvrir l'original"
+   ],
+   "shortcut": "",
+   "credit": "Adobe",
+   "link": "https://helpx.adobe.com/fr/photoshop/tutorials.html"
+  }
+ ],
+ "debug": [
+  "Met: 410 https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&isPublicDomain=true&q=poster"
+ ]
+}
